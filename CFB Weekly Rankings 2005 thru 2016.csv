@@ -1,0 +1,4878 @@
+Year,Week,Rank,Team
+2005,1,1,USC
+2005,1,2,Texas
+2005,1,3,Tennessee
+2005,1,4,Michigan
+2005,1,5,LSU
+2005,1,6,Ohio State
+2005,1,7,Oklahoma
+2005,1,8,Virginia Tech
+2005,1,9,Miami
+2005,1,10,Florida
+2005,1,11,Iowa
+2005,1,12,Louisville
+2005,1,13,Georgia
+2005,1,14,Florida State
+2005,1,15,Purdue
+2005,1,16,Auburn
+2005,1,17,Texas A&M;
+2005,1,18,Boise State
+2005,1,19,California
+2005,1,20,Arizona State
+2005,1,21,Texas Tech
+2005,1,22,Boston College
+2005,1,23,Pittsburgh
+2005,1,24,Fresno State
+2005,1,25,Virginia
+2005,2,1,USC
+2005,2,2,Texas
+2005,2,3,Michigan
+2005,2,4,Ohio State
+2005,2,5,LSU
+2005,2,6,Tennessee
+2005,2,7,Virginia Tech
+2005,2,8,Iowa
+2005,2,9,Georgia
+2005,2,10,Florida
+2005,2,11,Florida State
+2005,2,12,Louisville
+2005,2,13,Purdue
+2005,2,14,Miami
+2005,2,15,Arizona State
+2005,2,16,California
+2005,2,17,Georgia Tech
+2005,2,18,Oklahoma
+2005,2,19,Boston College
+2005,2,20,Notre Dame
+2005,2,21,Texas Tech
+2005,2,22,TCU
+2005,2,23,Virginia
+2005,2,24,Fresno State
+2005,2,25,Clemson
+2005,3,1,USC
+2005,3,2,Texas
+2005,3,3,LSU
+2005,3,4,Virginia Tech
+2005,3,5,Tennessee
+2005,3,6,Florida
+2005,3,7,Georgia
+2005,3,8,Florida State
+2005,3,9,Ohio State
+2005,3,10,Notre Dame
+2005,3,11,Louisville
+2005,3,12,Purdue
+2005,3,13,Miami
+2005,3,14,Michigan
+2005,3,15,California
+2005,3,16,Georgia Tech
+2005,3,17,Boston College
+2005,3,18,Arizona State
+2005,3,19,Texas Tech
+2005,3,20,Clemson
+2005,3,21,Oklahoma
+2005,3,22,Iowa
+2005,3,23,Fresno State
+2005,3,24,Iowa State
+2005,3,25,Virginia
+2005,4,1,USC
+2005,4,2,Texas
+2005,4,3,LSU
+2005,4,4,Virginia Tech
+2005,4,5,Florida
+2005,4,6,Florida State
+2005,4,7,Georgia
+2005,4,8,Ohio State
+2005,4,9,Louisville
+2005,4,10,Tennessee
+2005,4,11,Purdue
+2005,4,12,Miami
+2005,4,13,California
+2005,4,14,Michigan
+2005,4,15,Georgia Tech
+2005,4,16,Notre Dame
+2005,4,17,Michigan State
+2005,4,18,Arizona State
+2005,4,19,Texas Tech
+2005,4,20,Alabama
+2005,4,21,Iowa
+2005,4,22,Iowa State
+2005,4,23,Virginia
+2005,4,24,Oregon
+2005,4,25,UCLA
+2005,5,1,USC
+2005,5,2,Texas
+2005,5,3,Virginia Tech
+2005,5,4,LSU
+2005,5,5,Florida
+2005,5,6,Florida State
+2005,5,7,Georgia
+2005,5,8,Ohio State
+2005,5,9,Miami
+2005,5,10,Tennessee
+2005,5,11,Michigan State
+2005,5,12,California
+2005,5,13,Notre Dame
+2005,5,14,Arizona State
+2005,5,15,Alabama
+2005,5,16,Texas Tech
+2005,5,17,Wisconsin
+2005,5,18,Minnesota
+2005,5,19,Virginia
+2005,5,20,UCLA
+2005,5,21,Boston College
+2005,5,22,Purdue
+2005,5,23,Iowa State
+2005,5,24,Louisville
+2005,5,25,Georgia Tech
+2005,6,1,USC
+2005,6,2,Texas
+2005,6,3,Virginia Tech
+2005,6,4,Florida State
+2005,6,5,Georgia
+2005,6,6,Ohio State
+2005,6,7,Alabama
+2005,6,8,Tennessee
+2005,6,9,Miami
+2005,6,10,California
+2005,6,11,LSU
+2005,6,12,Notre Dame
+2005,6,13,Florida
+2005,6,14,Wisconsin
+2005,6,15,Texas Tech
+2005,6,16,Penn State
+2005,6,17,Arizona State
+2005,6,18,Boston College
+2005,6,19,Michigan State
+2005,6,20,UCLA
+2005,6,21,Michigan
+2005,6,22,Auburn
+2005,6,23,Louisville
+2005,6,24,Georgia Tech
+2005,6,25,Oregon
+2005,7,1,USC
+2005,7,2,Texas
+2005,7,3,Virginia Tech
+2005,7,4,Florida State
+2005,7,5,Georgia
+2005,7,6,Alabama
+2005,7,7,Miami
+2005,7,8,Penn State
+2005,7,9,Notre Dame
+2005,7,10,LSU
+2005,7,11,Florida
+2005,7,12,UCLA
+2005,7,13,Texas Tech
+2005,7,14,Boston College
+2005,7,15,Ohio State
+2005,7,16,Michigan State
+2005,7,17,Tennessee
+2005,7,18,California
+2005,7,19,Louisville
+2005,7,20,Oregon
+2005,7,21,Auburn
+2005,7,22,Minnesota
+2005,7,23,Wisconsin
+2005,7,24,Colorado
+2005,7,25,TCU
+2005,8,1,USC
+2005,8,2,Texas
+2005,8,3,Virginia Tech
+2005,8,4,Georgia
+2005,8,5,Alabama
+2005,8,6,Miami
+2005,8,7,LSU
+2005,8,8,UCLA
+2005,8,9,Notre Dame
+2005,8,10,Texas Tech
+2005,8,11,Florida State
+2005,8,12,Penn State
+2005,8,13,Boston College
+2005,8,14,Ohio State
+2005,8,15,Oregon
+2005,8,16,Auburn
+2005,8,17,Tennessee
+2005,8,18,Florida
+2005,8,19,Wisconsin
+2005,8,20,West Virginia
+2005,8,21,TCU
+2005,8,22,Michigan State
+2005,8,23,Virginia
+2005,8,24,Fresno State
+2005,8,25,California
+2005,9,1,USC
+2005,9,2,Texas
+2005,9,3,Virginia Tech
+2005,9,4,Georgia
+2005,9,5,Alabama
+2005,9,6,Miami
+2005,9,7,LSU
+2005,9,8,UCLA
+2005,9,9,Notre Dame
+2005,9,10,Florida State
+2005,9,11,Penn State
+2005,9,12,Ohio State
+2005,9,13,Boston College
+2005,9,14,Oregon
+2005,9,15,Wisconsin
+2005,9,16,Florida
+2005,9,17,Texas Tech
+2005,9,18,West Virginia
+2005,9,19,Auburn
+2005,9,20,TCU
+2005,9,21,Northwestern
+2005,9,22,Fresno State
+2005,9,23,Tennessee
+2005,9,24,California
+2005,9,25,Michigan
+2005,10,1,USC
+2005,10,2,Texas
+2005,10,3,Virginia Tech
+2005,10,4,Alabama
+2005,10,5,Miami
+2005,10,6,LSU
+2005,10,7,UCLA
+2005,10,8,Notre Dame
+2005,10,9,Florida State
+2005,10,10,Penn State
+2005,10,11,Georgia
+2005,10,12,Ohio State
+2005,10,13,Florida
+2005,10,14,Wisconsin
+2005,10,15,Oregon
+2005,10,16,Texas Tech
+2005,10,17,Auburn
+2005,10,18,West Virginia
+2005,10,19,Boston College
+2005,10,20,TCU
+2005,10,21,Fresno State
+2005,10,22,Michigan
+2005,10,23,California
+2005,10,24,Louisville
+2005,10,25,Colorado
+2005,11,1,USC
+2005,11,2,Texas
+2005,11,3,Miami
+2005,11,4,Alabama
+2005,11,5,LSU
+2005,11,6,Penn State
+2005,11,7,Notre Dame
+2005,11,8,Virginia Tech
+2005,11,9,Georgia
+2005,11,10,Ohio State
+2005,11,11,Oregon
+2005,11,12,Florida
+2005,11,13,Texas Tech
+2005,11,14,UCLA
+2005,11,15,Auburn
+2005,11,16,West Virginia
+2005,11,17,Florida State
+2005,11,18,TCU
+2005,11,19,Wisconsin
+2005,11,20,Fresno State
+2005,11,21,Michigan
+2005,11,22,Colorado
+2005,11,23,Louisville
+2005,11,24,Georgia Tech
+2005,11,25,Northwestern
+2005,12,1,USC
+2005,12,2,Texas
+2005,12,3,Miami
+2005,12,4,LSU
+2005,12,5,Penn State
+2005,12,6,Notre Dame
+2005,12,7,Virginia Tech
+2005,12,8,Alabama
+2005,12,9,Ohio State
+2005,12,10,Oregon
+2005,12,11,Auburn
+2005,12,12,UCLA
+2005,12,13,West Virginia
+2005,12,14,Georgia
+2005,12,15,TCU
+2005,12,16,Fresno State
+2005,12,17,Michigan
+2005,12,18,Louisville
+2005,12,19,South Carolina
+2005,12,20,Florida
+2005,12,21,Texas Tech
+2005,12,22,Florida State
+2005,12,23,Boston College
+2005,12,24,UTEP
+2005,12,25,Wisconsin
+2005,13,1,USC
+2005,13,2,Texas
+2005,13,3,LSU
+2005,13,4,Penn State
+2005,13,5,Virginia Tech
+2005,13,6,Notre Dame
+2005,13,7,Ohio State
+2005,13,8,Oregon
+2005,13,9,Auburn
+2005,13,10,Miami
+2005,13,11,UCLA
+2005,13,12,West Virginia
+2005,13,13,Georgia
+2005,13,14,Alabama
+2005,13,15,TCU
+2005,13,16,Fresno State
+2005,13,17,Louisville
+2005,13,18,Texas Tech
+2005,13,19,Florida
+2005,13,20,Georgia Tech
+2005,13,21,Boston College
+2005,13,22,Michigan
+2005,13,23,Florida State
+2005,13,24,Wisconsin
+2005,13,25,Clemson
+2005,14,1,USC
+2005,14,2,Texas
+2005,14,3,LSU
+2005,14,4,Penn State
+2005,14,5,Virginia Tech
+2005,14,6,Ohio State
+2005,14,7,Notre Dame
+2005,14,8,Oregon
+2005,14,9,Auburn
+2005,14,10,Miami
+2005,14,11,UCLA
+2005,14,12,West Virginia
+2005,14,13,Georgia
+2005,14,14,Alabama
+2005,14,15,TCU
+2005,14,16,Louisville
+2005,14,17,Florida
+2005,14,18,Texas Tech
+2005,14,19,Boston College
+2005,14,20,Michigan
+2005,14,21,Wisconsin
+2005,14,22,Clemson
+2005,14,,Florida State
+2005,14,23,Fresno State
+2005,14,24,Georgia Tech
+2005,14,25,Iowa
+2005,15,1,USC
+2005,15,2,Texas
+2005,15,3,Penn State
+2005,15,4,Ohio State
+2005,15,5,Notre Dame
+2005,15,6,Oregon
+2005,15,7,Auburn
+2005,15,8,Georgia
+2005,15,9,Miami
+2005,15,10,LSU
+2005,15,11,West Virginia
+2005,15,12,Virginia Tech
+2005,15,13,Alabama
+2005,15,14,TCU
+2005,15,15,Louisville
+2005,15,16,Florida
+2005,15,17,UCLA
+2005,15,18,Texas Tech
+2005,15,19,Boston College
+2005,15,20,Michigan
+2005,15,21,Wisconsin
+2005,15,22,Florida State
+2005,15,23,Clemson
+2005,15,24,Georgia Tech
+2005,15,25,Iowa
+2005,16,1,Texas
+2005,16,2,USC
+2005,16,3,Penn State
+2005,16,4,Ohio State
+2005,16,5,West Virginia
+2005,16,6,LSU
+2005,16,7,Virginia Tech
+2005,16,8,Alabama
+2005,16,9,Notre Dame
+2005,16,10,Georgia
+2005,16,11,TCU
+2005,16,12,Oregon
+2005,16,,Florida
+2005,16,14,Auburn
+2005,16,15,Wisconsin
+2005,16,16,UCLA
+2005,16,17,Miami
+2005,16,18,Boston College
+2005,16,19,Louisville
+2005,16,20,Texas Tech
+2005,16,21,Clemson
+2005,16,22,Oklahoma
+2005,16,23,Florida State
+2005,16,24,Nebraska
+2005,16,25,California
+2006,1,1,Ohio State
+2006,1,2,Notre Dame
+2006,1,3,Texas
+2006,1,4,Auburn
+2006,1,5,West Virginia
+2006,1,6,USC
+2006,1,7,Florida
+2006,1,8,LSU
+2006,1,9,California
+2006,1,10,Oklahoma
+2006,1,11,Florida State
+2006,1,12,Miami
+2006,1,13,Louisville
+2006,1,14,Michigan
+2006,1,15,Georgia
+2006,1,16,Iowa
+2006,1,17,Virginia Tech
+2006,1,18,Clemson
+2006,1,19,Penn State
+2006,1,20,Nebraska
+2006,1,21,Oregon
+2006,1,22,TCU
+2006,1,23,Tennessee
+2006,1,24,Arizona State
+2006,1,25,Texas Tech
+2006,2,1,Ohio State
+2006,2,2,Texas
+2006,2,3,USC
+2006,2,4,Notre Dame
+2006,2,,Auburn
+2006,2,6,West Virginia
+2006,2,7,Florida
+2006,2,8,LSU
+2006,2,9,Florida State
+2006,2,10,Michigan
+2006,2,11,Tennessee
+2006,2,12,Georgia
+2006,2,13,Louisville
+2006,2,14,Iowa
+2006,2,15,Oklahoma
+2006,2,16,Virginia Tech
+2006,2,17,Miami
+2006,2,18,Clemson
+2006,2,19,Penn State
+2006,2,20,Oregon
+2006,2,21,Nebraska
+2006,2,22,California
+2006,2,23,TCU
+2006,2,24,Texas Tech
+2006,2,25,Arizona State
+2006,3,1,Ohio State
+2006,3,2,Notre Dame
+2006,3,3,Auburn
+2006,3,4,USC
+2006,3,5,West Virginia
+2006,3,6,LSU
+2006,3,7,Florida
+2006,3,8,Texas
+2006,3,9,Florida State
+2006,3,10,Georgia
+2006,3,11,Michigan
+2006,3,12,Louisville
+2006,3,13,Tennessee
+2006,3,14,Virginia Tech
+2006,3,15,Oklahoma
+2006,3,16,Iowa
+2006,3,17,Miami
+2006,3,18,Oregon
+2006,3,19,Nebraska
+2006,3,20,TCU
+2006,3,21,California
+2006,3,22,Arizona State
+2006,3,23,Boston College
+2006,3,24,Texas Tech
+2006,3,25,Penn State
+2006,4,1,Ohio State
+2006,4,2,Auburn
+2006,4,3,USC
+2006,4,4,West Virginia
+2006,4,5,Florida
+2006,4,6,Michigan
+2006,4,7,Texas
+2006,4,8,Louisville
+2006,4,9,Georgia
+2006,4,10,LSU
+2006,4,11,Virginia Tech
+2006,4,12,Notre Dame
+2006,4,13,Oregon
+2006,4,14,Iowa
+2006,4,15,Tennessee
+2006,4,16,TCU
+2006,4,17,Oklahoma
+2006,4,18,Florida State
+2006,4,19,Clemson
+2006,4,20,Boston College
+2006,4,21,California
+2006,4,22,Arizona State
+2006,4,23,Nebraska
+2006,4,24,Penn State
+2006,4,25,Boise State
+2006,5,1,Ohio State
+2006,5,2,Auburn
+2006,5,3,USC
+2006,5,4,West Virginia
+2006,5,5,Florida
+2006,5,6,Michigan
+2006,5,7,Texas
+2006,5,8,Louisville
+2006,5,9,LSU
+2006,5,10,Georgia
+2006,5,11,Virginia Tech
+2006,5,12,Notre Dame
+2006,5,13,Iowa
+2006,5,14,Oregon
+2006,5,15,Tennessee
+2006,5,16,Oklahoma
+2006,5,17,TCU
+2006,5,18,Clemson
+2006,5,19,Florida State
+2006,5,20,California
+2006,5,21,Nebraska
+2006,5,22,Boise State
+2006,5,23,Rutgers
+2006,5,24,Georgia Tech
+2006,5,25,Missouri
+2006,6,1,Ohio State
+2006,6,2,Auburn
+2006,6,3,USC
+2006,6,4,West Virginia
+2006,6,5,Florida
+2006,6,6,Michigan
+2006,6,7,Texas
+2006,6,8,Louisville
+2006,6,9,LSU
+2006,6,10,Georgia
+2006,6,11,Oregon
+2006,6,12,Notre Dame
+2006,6,13,Tennessee
+2006,6,14,Oklahoma
+2006,6,15,Clemson
+2006,6,16,California
+2006,6,17,Florida State
+2006,6,18,Georgia Tech
+2006,6,19,Iowa
+2006,6,20,Boise State
+2006,6,21,Virginia Tech
+2006,6,22,Nebraska
+2006,6,23,Missouri
+2006,6,24,Rutgers
+2006,6,25,Boston College
+2006,7,1,Ohio State
+2006,7,2,Florida
+2006,7,3,USC
+2006,7,4,Michigan
+2006,7,5,West Virginia
+2006,7,6,Texas
+2006,7,7,Louisville
+2006,7,8,Tennessee
+2006,7,9,Notre Dame
+2006,7,10,California
+2006,7,11,Auburn
+2006,7,12,Clemson
+2006,7,13,Georgia Tech
+2006,7,14,LSU
+2006,7,15,Iowa
+2006,7,16,Georgia
+2006,7,17,Arkansas
+2006,7,18,Oregon
+2006,7,19,Missouri
+2006,7,20,Boise State
+2006,7,21,Nebraska
+2006,7,22,Virginia Tech
+2006,7,23,Oklahoma
+2006,7,24,Rutgers
+2006,7,25,Wisconsin
+2006,8,1,Ohio State
+2006,8,2,Michigan
+2006,8,3,USC
+2006,8,4,West Virginia
+2006,8,5,Texas
+2006,8,6,Louisville
+2006,8,7,Tennessee
+2006,8,8,Auburn
+2006,8,9,Florida
+2006,8,10,Notre Dame
+2006,8,11,California
+2006,8,12,Clemson
+2006,8,13,Georgia Tech
+2006,8,14,LSU
+2006,8,15,Arkansas
+2006,8,16,Oregon
+2006,8,17,Nebraska
+2006,8,18,Boise State
+2006,8,19,Rutgers
+2006,8,20,Oklahoma
+2006,8,21,Wisconsin
+2006,8,22,Boston College
+2006,8,23,Texas A&M;
+2006,8,24,Missouri
+2006,8,25,Wake Forest
+2006,9,1,Ohio State
+2006,9,2,Michigan
+2006,9,3,USC
+2006,9,4,West Virginia
+2006,9,5,Texas
+2006,9,6,Louisville
+2006,9,7,Auburn
+2006,9,8,Tennessee
+2006,9,9,Florida
+2006,9,10,Clemson
+2006,9,11,Notre Dame
+2006,9,12,California
+2006,9,13,Arkansas
+2006,9,14,LSU
+2006,9,15,Boise State
+2006,9,16,Rutgers
+2006,9,17,Wisconsin
+2006,9,18,Boston College
+2006,9,19,Oklahoma
+2006,9,20,Nebraska
+2006,9,21,Georgia Tech
+2006,9,22,Texas A&M;
+2006,9,23,Missouri
+2006,9,24,Wake Forest
+2006,9,25,Oregon
+2006,10,1,Ohio State
+2006,10,2,Michigan
+2006,10,3,West Virginia
+2006,10,4,Texas
+2006,10,5,Louisville
+2006,10,6,Auburn
+2006,10,7,Florida
+2006,10,8,Tennessee
+2006,10,9,USC
+2006,10,10,California
+2006,10,11,Notre Dame
+2006,10,12,Arkansas
+2006,10,13,LSU
+2006,10,14,Boise State
+2006,10,15,Rutgers
+2006,10,16,Boston College
+2006,10,17,Wisconsin
+2006,10,18,Oklahoma
+2006,10,19,Clemson
+2006,10,20,Georgia Tech
+2006,10,21,Texas A&M;
+2006,10,22,Wake Forest
+2006,10,23,Virginia Tech
+2006,10,24,Oregon
+2006,10,25,Washington State
+2006,11,1,Ohio State
+2006,11,2,Michigan
+2006,11,3,Louisville
+2006,11,4,Texas
+2006,11,5,Auburn
+2006,11,6,Florida
+2006,11,7,USC
+2006,11,8,California
+2006,11,9,Notre Dame
+2006,11,10,West Virginia
+2006,11,11,Arkansas
+2006,11,12,LSU
+2006,11,13,Tennessee
+2006,11,14,Boise State
+2006,11,15,Rutgers
+2006,11,16,Wisconsin
+2006,11,17,Oklahoma
+2006,11,18,Wake Forest
+2006,11,19,Georgia Tech
+2006,11,20,Virginia Tech
+2006,11,21,Oregon
+2006,11,22,Boston College
+2006,11,23,Maryland
+2006,11,24,Texas A&M;
+2006,11,25,BYU
+2006,12,1,Ohio State
+2006,12,2,Michigan
+2006,12,3,Florida
+2006,12,4,USC
+2006,12,5,Arkansas
+2006,12,6,Notre Dame
+2006,12,7,Rutgers
+2006,12,8,West Virginia
+2006,12,9,LSU
+2006,12,10,Louisville
+2006,12,11,Texas
+2006,12,12,Wisconsin
+2006,12,13,Boise State
+2006,12,14,Wake Forest
+2006,12,15,Auburn
+2006,12,16,Oklahoma
+2006,12,17,California
+2006,12,18,Georgia Tech
+2006,12,19,Virginia Tech
+2006,12,20,Boston College
+2006,12,21,Maryland
+2006,12,22,Tennessee
+2006,12,23,BYU
+2006,12,24,Nebraska
+2006,12,25,Clemson
+2006,13,1,Ohio State
+2006,13,2,Michigan
+2006,13,3,USC
+2006,13,4,Florida
+2006,13,5,Arkansas
+2006,13,6,Notre Dame
+2006,13,7,West Virginia
+2006,13,8,Louisville
+2006,13,9,LSU
+2006,13,10,Wisconsin
+2006,13,11,Texas
+2006,13,12,Boise State
+2006,13,13,Oklahoma
+2006,13,14,Auburn
+2006,13,15,Rutgers
+2006,13,16,Georgia Tech
+2006,13,17,Virginia Tech
+2006,13,18,Boston College
+2006,13,19,Tennessee
+2006,13,20,Wake Forest
+2006,13,21,BYU
+2006,13,22,California
+2006,13,23,Nebraska
+2006,13,24,Clemson
+2006,13,25,Hawai'i
+2006,14,1,Ohio State
+2006,14,2,USC
+2006,14,3,Michigan
+2006,14,4,Florida
+2006,14,5,LSU
+2006,14,6,Louisville
+2006,14,7,Wisconsin
+2006,14,8,Oklahoma
+2006,14,,Arkansas
+2006,14,10,Boise State
+2006,14,11,Auburn
+2006,14,12,Notre Dame
+2006,14,13,Rutgers
+2006,14,14,Virginia Tech
+2006,14,15,West Virginia
+2006,14,16,Wake Forest
+2006,14,17,Tennessee
+2006,14,,Texas
+2006,14,19,Nebraska
+2006,14,20,BYU
+2006,14,21,California
+2006,14,22,Texas A&M;
+2006,14,23,Georgia Tech
+2006,14,24,Hawai'i
+2006,14,25,Boston College
+2006,15,1,Ohio State
+2006,15,2,Florida
+2006,15,3,Michigan
+2006,15,4,LSU
+2006,15,5,Louisville
+2006,15,6,Wisconsin
+2006,15,7,Oklahoma
+2006,15,8,USC
+2006,15,9,Boise State
+2006,15,10,Auburn
+2006,15,11,Notre Dame
+2006,15,12,Arkansas
+2006,15,13,West Virginia
+2006,15,14,Virginia Tech
+2006,15,15,Wake Forest
+2006,15,16,Rutgers
+2006,15,17,Tennessee
+2006,15,18,Texas
+2006,15,19,BYU
+2006,15,20,California
+2006,15,21,Texas A&M;
+2006,15,22,Nebraska
+2006,15,23,Boston College
+2006,15,24,Oregon State
+2006,15,25,TCU
+2006,16,1,Florida
+2006,16,2,Ohio State
+2006,16,3,LSU
+2006,16,4,USC
+2006,16,5,Boise State
+2006,16,6,Louisville
+2006,16,7,Wisconsin
+2006,16,8,Michigan
+2006,16,9,Auburn
+2006,16,10,West Virginia
+2006,16,11,Oklahoma
+2006,16,12,Rutgers
+2006,16,13,Texas
+2006,16,14,California
+2006,16,15,Arkansas
+2006,16,16,BYU
+2006,16,17,Notre Dame
+2006,16,18,Wake Forest
+2006,16,19,Virginia Tech
+2006,16,20,Boston College
+2006,16,21,Oregon State
+2006,16,22,TCU
+2006,16,23,Georgia
+2006,16,24,Penn State
+2006,16,25,Tennessee
+2007,1,1,USC
+2007,1,2,LSU
+2007,1,3,West Virginia
+2007,1,4,Texas
+2007,1,5,Michigan
+2007,1,6,Florida
+2007,1,7,Wisconsin
+2007,1,8,Oklahoma
+2007,1,9,Virginia Tech
+2007,1,10,Louisville
+2007,1,11,Ohio State
+2007,1,12,California
+2007,1,13,Georgia
+2007,1,14,UCLA
+2007,1,15,Tennessee
+2007,1,16,Rutgers
+2007,1,17,Penn State
+2007,1,18,Auburn
+2007,1,19,Florida State
+2007,1,20,Nebraska
+2007,1,21,Arkansas
+2007,1,22,TCU
+2007,1,23,Hawai'i
+2007,1,24,Boise State
+2007,1,25,Texas A&M;
+2007,2,1,USC
+2007,2,2,LSU
+2007,2,3,West Virginia
+2007,2,4,Florida
+2007,2,5,Oklahoma
+2007,2,,Wisconsin
+2007,2,7,Texas
+2007,2,8,Louisville
+2007,2,9,Virginia Tech
+2007,2,10,California
+2007,2,11,Georgia
+2007,2,12,Ohio State
+2007,2,13,UCLA
+2007,2,14,Penn State
+2007,2,15,Rutgers
+2007,2,16,Nebraska
+2007,2,17,Auburn
+2007,2,18,Arkansas
+2007,2,19,TCU
+2007,2,20,Hawai'i
+2007,2,21,Georgia Tech
+2007,2,22,Boise State
+2007,2,23,Texas A&M;
+2007,2,24,Tennessee
+2007,2,25,Clemson
+2007,3,1,USC
+2007,3,2,LSU
+2007,3,3,Oklahoma
+2007,3,4,West Virginia
+2007,3,5,Florida
+2007,3,6,Texas
+2007,3,7,Wisconsin
+2007,3,8,California
+2007,3,9,Louisville
+2007,3,10,Ohio State
+2007,3,11,UCLA
+2007,3,12,Penn State
+2007,3,13,Rutgers
+2007,3,14,Nebraska
+2007,3,15,Georgia Tech
+2007,3,16,Arkansas
+2007,3,17,South Carolina
+2007,3,18,Virginia Tech
+2007,3,19,Oregon
+2007,3,20,Clemson
+2007,3,21,Boston College
+2007,3,22,Tennessee
+2007,3,23,Georgia
+2007,3,24,Hawai'i
+2007,3,25,Texas A&M;
+2007,4,1,USC
+2007,4,2,LSU
+2007,4,3,Florida
+2007,4,4,Oklahoma
+2007,4,5,West Virginia
+2007,4,6,California
+2007,4,7,Texas
+2007,4,8,Ohio State
+2007,4,9,Wisconsin
+2007,4,10,Penn State
+2007,4,11,Rutgers
+2007,4,12,South Carolina
+2007,4,13,Oregon
+2007,4,14,Boston College
+2007,4,15,Clemson
+2007,4,16,Alabama
+2007,4,17,Virginia Tech
+2007,4,18,Louisville
+2007,4,19,Hawai'i
+2007,4,20,Texas A&M;
+2007,4,21,Kentucky
+2007,4,22,Georgia
+2007,4,23,South Florida
+2007,4,24,Nebraska
+2007,4,25,Missouri
+2007,5,1,USC
+2007,5,2,LSU
+2007,5,3,Oklahoma
+2007,5,4,Florida
+2007,5,5,West Virginia
+2007,5,6,California
+2007,5,7,Texas
+2007,5,8,Ohio State
+2007,5,9,Wisconsin
+2007,5,10,Rutgers
+2007,5,11,Oregon
+2007,5,12,Boston College
+2007,5,13,Clemson
+2007,5,14,Kentucky
+2007,5,15,Georgia
+2007,5,16,South Carolina
+2007,5,17,Virginia Tech
+2007,5,18,South Florida
+2007,5,19,Hawai'i
+2007,5,20,Missouri
+2007,5,21,Penn State
+2007,5,22,Alabama
+2007,5,23,Arizona State
+2007,5,24,Cincinnati
+2007,5,25,Nebraska
+2007,6,1,LSU
+2007,6,2,USC
+2007,6,3,California
+2007,6,4,Ohio State
+2007,6,5,Wisconsin
+2007,6,6,South Florida
+2007,6,7,Boston College
+2007,6,8,Kentucky
+2007,6,9,Florida
+2007,6,10,Oklahoma
+2007,6,11,South Carolina
+2007,6,12,Georgia
+2007,6,13,West Virginia
+2007,6,14,Oregon
+2007,6,15,Virginia Tech
+2007,6,16,Hawai'i
+2007,6,17,Missouri
+2007,6,18,Arizona State
+2007,6,19,Texas
+2007,6,20,Cincinnati
+2007,6,21,Rutgers
+2007,6,22,Clemson
+2007,6,23,Purdue
+2007,6,24,Kansas State
+2007,6,25,Nebraska
+2007,7,1,LSU
+2007,7,2,California
+2007,7,3,Ohio State
+2007,7,4,Boston College
+2007,7,5,South Florida
+2007,7,6,Oklahoma
+2007,7,7,South Carolina
+2007,7,8,West Virginia
+2007,7,9,Oregon
+2007,7,10,USC
+2007,7,11,Missouri
+2007,7,12,Virginia Tech
+2007,7,13,Florida
+2007,7,14,Arizona State
+2007,7,15,Cincinnati
+2007,7,16,Hawai'i
+2007,7,17,Kentucky
+2007,7,18,Illinois
+2007,7,19,Wisconsin
+2007,7,20,Kansas
+2007,7,21,Florida State
+2007,7,22,Auburn
+2007,7,23,Texas
+2007,7,24,Georgia
+2007,7,25,Tennessee
+2007,8,1,Ohio State
+2007,8,2,South Florida
+2007,8,3,Boston College
+2007,8,4,Oklahoma
+2007,8,5,LSU
+2007,8,6,South Carolina
+2007,8,7,Oregon
+2007,8,8,Kentucky
+2007,8,9,West Virginia
+2007,8,10,California
+2007,8,11,Virginia Tech
+2007,8,12,Arizona State
+2007,8,13,USC
+2007,8,14,Florida
+2007,8,15,Missouri
+2007,8,,Kansas
+2007,8,17,Hawai'i
+2007,8,18,Auburn
+2007,8,19,Texas
+2007,8,20,Tennessee
+2007,8,21,Georgia
+2007,8,22,Texas Tech
+2007,8,23,Cincinnati
+2007,8,24,Michigan
+2007,8,25,Kansas State
+2007,9,1,Ohio State
+2007,9,2,Boston College
+2007,9,3,LSU
+2007,9,4,Oklahoma
+2007,9,5,Oregon
+2007,9,6,West Virginia
+2007,9,7,Arizona State
+2007,9,8,Virginia Tech
+2007,9,9,USC
+2007,9,,Florida
+2007,9,11,South Florida
+2007,9,12,Kansas
+2007,9,13,Missouri
+2007,9,14,Kentucky
+2007,9,15,South Carolina
+2007,9,16,Hawai'i
+2007,9,17,Texas
+2007,9,18,California
+2007,9,19,Michigan
+2007,9,20,Georgia
+2007,9,21,Virginia
+2007,9,22,Alabama
+2007,9,23,Auburn
+2007,9,24,Penn State
+2007,9,25,Rutgers
+2007,10,1,Ohio State
+2007,10,2,Boston College
+2007,10,3,LSU
+2007,10,4,Oregon
+2007,10,5,Oklahoma
+2007,10,6,Arizona State
+2007,10,7,West Virginia
+2007,10,8,Kansas
+2007,10,9,Missouri
+2007,10,10,Georgia
+2007,10,11,Virginia Tech
+2007,10,12,Hawai'i
+2007,10,13,USC
+2007,10,14,Texas
+2007,10,15,Michigan
+2007,10,16,Connecticut
+2007,10,17,Alabama
+2007,10,18,Florida
+2007,10,19,Auburn
+2007,10,20,South Florida
+2007,10,21,Boise State
+2007,10,,Wake Forest
+2007,10,23,South Carolina
+2007,10,24,Tennessee
+2007,10,25,Clemson
+2007,11,1,Ohio State
+2007,11,2,LSU
+2007,11,3,Oregon
+2007,11,4,Oklahoma
+2007,11,5,Kansas
+2007,11,6,West Virginia
+2007,11,7,Missouri
+2007,11,8,Boston College
+2007,11,9,Arizona State
+2007,11,10,Georgia
+2007,11,11,Virginia Tech
+2007,11,12,USC
+2007,11,13,Michigan
+2007,11,14,Hawai'i
+2007,11,15,Texas
+2007,11,16,Connecticut
+2007,11,17,Florida
+2007,11,18,Auburn
+2007,11,19,Boise State
+2007,11,20,Clemson
+2007,11,21,Alabama
+2007,11,22,Tennessee
+2007,11,23,Virginia
+2007,11,24,Kentucky
+2007,11,,California
+2007,12,1,LSU
+2007,12,2,Oregon
+2007,12,3,Oklahoma
+2007,12,4,Kansas
+2007,12,5,West Virginia
+2007,12,6,Missouri
+2007,12,7,Ohio State
+2007,12,8,Georgia
+2007,12,9,Arizona State
+2007,12,10,Virginia Tech
+2007,12,11,USC
+2007,12,12,Texas
+2007,12,13,Hawai'i
+2007,12,14,Florida
+2007,12,15,Clemson
+2007,12,16,Virginia
+2007,12,17,Boise State
+2007,12,18,Boston College
+2007,12,19,Tennessee
+2007,12,20,Illinois
+2007,12,21,Cincinnati
+2007,12,22,Kentucky
+2007,12,23,Michigan
+2007,12,24,Wisconsin
+2007,12,25,Connecticut
+2007,13,1,LSU
+2007,13,2,Kansas
+2007,13,3,Missouri
+2007,13,4,West Virginia
+2007,13,5,Ohio State
+2007,13,6,Georgia
+2007,13,7,Arizona State
+2007,13,8,Virginia Tech
+2007,13,9,Oregon
+2007,13,10,Oklahoma
+2007,13,11,USC
+2007,13,12,Florida
+2007,13,13,Texas
+2007,13,14,Hawai'i
+2007,13,15,Boston College
+2007,13,16,Virginia
+2007,13,17,Boise State
+2007,13,18,Illinois
+2007,13,19,Tennessee
+2007,13,20,Connecticut
+2007,13,21,Clemson
+2007,13,22,Wisconsin
+2007,13,23,BYU
+2007,13,24,Cincinnati
+2007,13,25,Auburn
+2007,14,1,Missouri
+2007,14,2,West Virginia
+2007,14,3,Ohio State
+2007,14,4,Georgia
+2007,14,5,LSU
+2007,14,6,Virginia Tech
+2007,14,7,Kansas
+2007,14,8,USC
+2007,14,9,Oklahoma
+2007,14,10,Florida
+2007,14,11,Hawai'i
+2007,14,12,Boston College
+2007,14,13,Arizona State
+2007,14,14,Tennessee
+2007,14,15,Illinois
+2007,14,16,Clemson
+2007,14,17,Texas
+2007,14,18,Oregon
+2007,14,19,Wisconsin
+2007,14,20,Cincinnati
+2007,14,21,BYU
+2007,14,22,Virginia
+2007,14,23,Auburn
+2007,14,24,Boise State
+2007,14,25,South Florida
+2007,15,1,Ohio State
+2007,15,2,LSU
+2007,15,3,Oklahoma
+2007,15,4,Georgia
+2007,15,5,Virginia Tech
+2007,15,6,USC
+2007,15,7,Missouri
+2007,15,8,Kansas
+2007,15,9,Florida
+2007,15,10,Hawai'i
+2007,15,11,West Virginia
+2007,15,12,Arizona State
+2007,15,13,Illinois
+2007,15,14,Boston College
+2007,15,15,Clemson
+2007,15,16,Tennessee
+2007,15,17,Texas
+2007,15,18,Wisconsin
+2007,15,19,BYU
+2007,15,20,Cincinnati
+2007,15,21,Virginia
+2007,15,22,Auburn
+2007,15,23,South Florida
+2007,15,24,Boise State
+2007,15,25,Arkansas
+2007,16,1,LSU
+2007,16,2,Georgia
+2007,16,3,USC
+2007,16,4,Missouri
+2007,16,5,Ohio State
+2007,16,6,West Virginia
+2007,16,7,Kansas
+2007,16,8,Oklahoma
+2007,16,9,Virginia Tech
+2007,16,10,Texas
+2007,16,,Boston College
+2007,16,12,Tennessee
+2007,16,13,Florida
+2007,16,14,BYU
+2007,16,15,Auburn
+2007,16,16,Arizona State
+2007,16,17,Cincinnati
+2007,16,18,Michigan
+2007,16,19,Hawai'i
+2007,16,20,Illinois
+2007,16,21,Clemson
+2007,16,22,Texas Tech
+2007,16,23,Oregon
+2007,16,24,Wisconsin
+2007,16,25,Oregon State
+2008,1,1,Georgia
+2008,1,2,Ohio State
+2008,1,3,USC
+2008,1,4,Oklahoma
+2008,1,5,Florida
+2008,1,6,Missouri
+2008,1,7,LSU
+2008,1,8,West Virginia
+2008,1,9,Clemson
+2008,1,10,Auburn
+2008,1,11,Texas
+2008,1,12,Texas Tech
+2008,1,13,Wisconsin
+2008,1,14,Kansas
+2008,1,15,Arizona State
+2008,1,16,BYU
+2008,1,17,Virginia Tech
+2008,1,18,Tennessee
+2008,1,19,South Florida
+2008,1,20,Illinois
+2008,1,21,Oregon
+2008,1,22,Penn State
+2008,1,23,Wake Forest
+2008,1,24,Alabama
+2008,1,25,Pittsburgh
+2008,2,1,USC
+2008,2,2,Georgia
+2008,2,3,Ohio State
+2008,2,4,Oklahoma
+2008,2,5,Florida
+2008,2,6,Missouri
+2008,2,7,LSU
+2008,2,8,West Virginia
+2008,2,9,Auburn
+2008,2,10,Texas
+2008,2,11,Wisconsin
+2008,2,12,Texas Tech
+2008,2,13,Alabama
+2008,2,14,Kansas
+2008,2,15,BYU
+2008,2,,Arizona State
+2008,2,17,South Florida
+2008,2,18,Oregon
+2008,2,19,Penn State
+2008,2,20,Wake Forest
+2008,2,21,Fresno State
+2008,2,22,Utah
+2008,2,23,UCLA
+2008,2,24,Illinois
+2008,2,,South Carolina
+2008,3,1,USC
+2008,3,2,Georgia
+2008,3,3,Oklahoma
+2008,3,4,Florida
+2008,3,5,Ohio State
+2008,3,6,Missouri
+2008,3,7,LSU
+2008,3,8,Texas
+2008,3,9,Auburn
+2008,3,10,Wisconsin
+2008,3,11,Alabama
+2008,3,12,Texas Tech
+2008,3,13,Kansas
+2008,3,14,East Carolina
+2008,3,15,Arizona State
+2008,3,16,Oregon
+2008,3,17,Penn State
+2008,3,18,BYU
+2008,3,19,South Florida
+2008,3,20,Wake Forest
+2008,3,21,Fresno State
+2008,3,22,Utah
+2008,3,23,California
+2008,3,24,Illinois
+2008,3,25,West Virginia
+2008,4,1,USC
+2008,4,2,Oklahoma
+2008,4,3,Georgia
+2008,4,4,Florida
+2008,4,5,Missouri
+2008,4,6,LSU
+2008,4,7,Texas
+2008,4,8,Wisconsin
+2008,4,9,Alabama
+2008,4,10,Auburn
+2008,4,11,Texas Tech
+2008,4,12,South Florida
+2008,4,13,Ohio State
+2008,4,14,BYU
+2008,4,15,East Carolina
+2008,4,16,Penn State
+2008,4,17,Oregon
+2008,4,18,Wake Forest
+2008,4,19,Kansas
+2008,4,20,Utah
+2008,4,21,West Virginia
+2008,4,22,Illinois
+2008,4,23,Clemson
+2008,4,24,Florida State
+2008,4,25,Fresno State
+2008,5,1,USC
+2008,5,2,Oklahoma
+2008,5,3,Georgia
+2008,5,4,Florida
+2008,5,5,LSU
+2008,5,6,Missouri
+2008,5,7,Texas
+2008,5,8,Alabama
+2008,5,9,Wisconsin
+2008,5,10,Texas Tech
+2008,5,11,BYU
+2008,5,12,Penn State
+2008,5,13,South Florida
+2008,5,14,Ohio State
+2008,5,15,Auburn
+2008,5,16,Wake Forest
+2008,5,17,Utah
+2008,5,18,Kansas
+2008,5,19,Boise State
+2008,5,20,Clemson
+2008,5,21,Vanderbilt
+2008,5,22,Illinois
+2008,5,23,East Carolina
+2008,5,24,TCU
+2008,5,25,Fresno State
+2008,6,1,Oklahoma
+2008,6,2,Alabama
+2008,6,3,LSU
+2008,6,4,Missouri
+2008,6,5,Texas
+2008,6,6,Penn State
+2008,6,7,Texas Tech
+2008,6,8,BYU
+2008,6,9,USC
+2008,6,10,South Florida
+2008,6,11,Georgia
+2008,6,12,Florida
+2008,6,13,Auburn
+2008,6,14,Ohio State
+2008,6,15,Utah
+2008,6,16,Kansas
+2008,6,17,Boise State
+2008,6,18,Wisconsin
+2008,6,19,Vanderbilt
+2008,6,20,Virginia Tech
+2008,6,21,Oklahoma State
+2008,6,22,Fresno State
+2008,6,23,Oregon
+2008,6,24,Connecticut
+2008,6,25,Wake Forest
+2008,7,1,Oklahoma
+2008,7,2,Alabama
+2008,7,3,Missouri
+2008,7,4,LSU
+2008,7,5,Texas
+2008,7,6,Penn State
+2008,7,7,Texas Tech
+2008,7,8,USC
+2008,7,9,BYU
+2008,7,10,Georgia
+2008,7,11,Florida
+2008,7,12,Ohio State
+2008,7,13,Vanderbilt
+2008,7,14,Utah
+2008,7,15,Boise State
+2008,7,16,Kansas
+2008,7,17,Oklahoma State
+2008,7,18,Virginia Tech
+2008,7,19,South Florida
+2008,7,20,Auburn
+2008,7,21,Wake Forest
+2008,7,22,North Carolina
+2008,7,23,Michigan State
+2008,7,24,Pittsburgh
+2008,7,25,Ball State
+2008,8,1,Texas
+2008,8,2,Alabama
+2008,8,3,Penn State
+2008,8,4,Oklahoma
+2008,8,5,Florida
+2008,8,6,USC
+2008,8,7,Texas Tech
+2008,8,8,Oklahoma State
+2008,8,9,BYU
+2008,8,10,Georgia
+2008,8,11,Missouri
+2008,8,12,Ohio State
+2008,8,13,LSU
+2008,8,14,Utah
+2008,8,15,Boise State
+2008,8,16,Kansas
+2008,8,17,Virginia Tech
+2008,8,18,North Carolina
+2008,8,19,South Florida
+2008,8,20,Michigan State
+2008,8,21,Wake Forest
+2008,8,22,Vanderbilt
+2008,8,23,Pittsburgh
+2008,8,24,Ball State
+2008,8,25,California
+2008,9,1,Texas
+2008,9,2,Alabama
+2008,9,3,Penn State
+2008,9,4,Oklahoma
+2008,9,5,Florida
+2008,9,6,USC
+2008,9,7,Oklahoma State
+2008,9,8,Texas Tech
+2008,9,9,Georgia
+2008,9,10,Ohio State
+2008,9,11,LSU
+2008,9,12,Utah
+2008,9,13,Boise State
+2008,9,14,South Florida
+2008,9,15,TCU
+2008,9,16,Missouri
+2008,9,17,Pittsburgh
+2008,9,18,BYU
+2008,9,19,Kansas
+2008,9,20,Ball State
+2008,9,21,Georgia Tech
+2008,9,22,Tulsa
+2008,9,23,Boston College
+2008,9,24,Florida State
+2008,9,25,Minnesota
+2008,10,1,Texas
+2008,10,2,Alabama
+2008,10,3,Penn State
+2008,10,4,Oklahoma
+2008,10,5,Florida
+2008,10,6,Texas Tech
+2008,10,7,USC
+2008,10,8,Georgia
+2008,10,9,Oklahoma State
+2008,10,10,Utah
+2008,10,11,Boise State
+2008,10,12,TCU
+2008,10,13,Ohio State
+2008,10,14,Missouri
+2008,10,15,LSU
+2008,10,16,Florida State
+2008,10,17,BYU
+2008,10,18,Ball State
+2008,10,19,Tulsa
+2008,10,20,Minnesota
+2008,10,21,North Carolina
+2008,10,22,Michigan State
+2008,10,23,Oregon
+2008,10,24,South Florida
+2008,10,25,Maryland
+2008,11,1,Alabama
+2008,11,2,Texas Tech
+2008,11,3,Penn State
+2008,11,4,Florida
+2008,11,5,Texas
+2008,11,6,Oklahoma
+2008,11,7,USC
+2008,11,8,Oklahoma State
+2008,11,9,Boise State
+2008,11,10,Utah
+2008,11,11,TCU
+2008,11,12,Ohio State
+2008,11,13,Missouri
+2008,11,14,Georgia
+2008,11,15,LSU
+2008,11,16,Ball State
+2008,11,17,BYU
+2008,11,18,Michigan State
+2008,11,19,North Carolina
+2008,11,20,West Virginia
+2008,11,21,California
+2008,11,22,Georgia Tech
+2008,11,23,Maryland
+2008,11,24,Florida State
+2008,11,25,Pittsburgh
+2008,12,1,Alabama
+2008,12,2,Texas Tech
+2008,12,3,Florida
+2008,12,4,Texas
+2008,12,5,Oklahoma
+2008,12,6,USC
+2008,12,7,Penn State
+2008,12,8,Utah
+2008,12,9,Boise State
+2008,12,10,Ohio State
+2008,12,11,Oklahoma State
+2008,12,12,Missouri
+2008,12,13,Georgia
+2008,12,14,Ball State
+2008,12,15,TCU
+2008,12,16,BYU
+2008,12,17,North Carolina
+2008,12,18,Michigan State
+2008,12,19,LSU
+2008,12,20,Florida State
+2008,12,21,Pittsburgh
+2008,12,22,Cincinnati
+2008,12,23,Oregon State
+2008,12,24,South Carolina
+2008,12,25,Tulsa
+2008,13,1,Alabama
+2008,13,2,Texas Tech
+2008,13,3,Florida
+2008,13,4,Texas
+2008,13,5,Oklahoma
+2008,13,6,USC
+2008,13,7,Penn State
+2008,13,8,Utah
+2008,13,9,Boise State
+2008,13,10,Ohio State
+2008,13,11,Oklahoma State
+2008,13,12,Missouri
+2008,13,13,Georgia
+2008,13,14,Ball State
+2008,13,15,TCU
+2008,13,16,BYU
+2008,13,17,Michigan State
+2008,13,18,LSU
+2008,13,19,Cincinnati
+2008,13,20,Pittsburgh
+2008,13,21,Oregon State
+2008,13,22,Maryland
+2008,13,23,Miami
+2008,13,24,Oregon
+2008,13,25,North Carolina
+2008,14,1,Alabama
+2008,14,2,Florida
+2008,14,3,Oklahoma
+2008,14,4,Texas
+2008,14,5,USC
+2008,14,6,Penn State
+2008,14,7,Texas Tech
+2008,14,8,Utah
+2008,14,9,Boise State
+2008,14,10,Ohio State
+2008,14,11,Oklahoma State
+2008,14,12,Missouri
+2008,14,13,Georgia
+2008,14,14,TCU
+2008,14,15,Ball State
+2008,14,16,Cincinnati
+2008,14,17,Oregon State
+2008,14,18,Georgia Tech
+2008,14,19,Oregon
+2008,14,20,BYU
+2008,14,,Boston College
+2008,14,22,Michigan State
+2008,14,23,Florida State
+2008,14,24,Northwestern
+2008,14,25,Ole Miss
+2008,15,1,Alabama
+2008,15,2,Florida
+2008,15,3,Texas
+2008,15,4,Oklahoma
+2008,15,5,USC
+2008,15,6,Penn State
+2008,15,7,Utah
+2008,15,8,Texas Tech
+2008,15,9,Boise State
+2008,15,10,Ohio State
+2008,15,11,TCU
+2008,15,12,Ball State
+2008,15,13,Cincinnati
+2008,15,14,Oklahoma State
+2008,15,15,Georgia Tech
+2008,15,16,Oregon
+2008,15,17,Georgia
+2008,15,18,Boston College
+2008,15,19,Missouri
+2008,15,20,BYU
+2008,15,21,Michigan State
+2008,15,22,Ole Miss
+2008,15,23,Pittsburgh
+2008,15,24,Northwestern
+2008,15,25,Oregon State
+2008,16,1,Florida
+2008,16,2,Oklahoma
+2008,16,3,Texas
+2008,16,4,Alabama
+2008,16,5,USC
+2008,16,6,Penn State
+2008,16,7,Utah
+2008,16,8,Texas Tech
+2008,16,9,Boise State
+2008,16,10,Ohio State
+2008,16,11,TCU
+2008,16,12,Cincinnati
+2008,16,13,Oklahoma State
+2008,16,14,Georgia Tech
+2008,16,15,Oregon
+2008,16,16,Georgia
+2008,16,17,BYU
+2008,16,18,Pittsburgh
+2008,16,19,Michigan State
+2008,16,20,Ole Miss
+2008,16,21,Virginia Tech
+2008,16,22,Northwestern
+2008,16,23,Ball State
+2008,16,24,Oregon State
+2008,16,25,Missouri
+2008,17,1,Florida
+2008,17,2,Utah
+2008,17,3,USC
+2008,17,4,Texas
+2008,17,5,Oklahoma
+2008,17,6,Alabama
+2008,17,7,TCU
+2008,17,8,Penn State
+2008,17,9,Ohio State
+2008,17,10,Oregon
+2008,17,11,Boise State
+2008,17,12,Texas Tech
+2008,17,13,Georgia
+2008,17,14,Ole Miss
+2008,17,15,Virginia Tech
+2008,17,16,Oklahoma State
+2008,17,17,Cincinnati
+2008,17,18,Oregon State
+2008,17,19,Missouri
+2008,17,20,Iowa
+2008,17,21,Florida State
+2008,17,22,Georgia Tech
+2008,17,23,West Virginia
+2008,17,24,Michigan State
+2008,17,25,BYU
+2009,1,1,Florida
+2009,1,2,Texas
+2009,1,3,Oklahoma
+2009,1,4,USC
+2009,1,5,Alabama
+2009,1,6,Ohio State
+2009,1,7,Virginia Tech
+2009,1,8,Ole Miss
+2009,1,9,Oklahoma State
+2009,1,,Penn State
+2009,1,11,LSU
+2009,1,12,California
+2009,1,13,Georgia
+2009,1,14,Boise State
+2009,1,15,Georgia Tech
+2009,1,16,Oregon
+2009,1,17,TCU
+2009,1,18,Florida State
+2009,1,19,Utah
+2009,1,20,BYU
+2009,1,21,North Carolina
+2009,1,22,Iowa
+2009,1,23,Notre Dame
+2009,1,24,Nebraska
+2009,1,25,Kansas
+2009,2,1,Florida
+2009,2,2,Texas
+2009,2,3,USC
+2009,2,4,Alabama
+2009,2,5,Oklahoma State
+2009,2,6,Ole Miss
+2009,2,7,Penn State
+2009,2,8,Ohio State
+2009,2,9,BYU
+2009,2,10,California
+2009,2,11,LSU
+2009,2,12,Boise State
+2009,2,13,Oklahoma
+2009,2,14,Virginia Tech
+2009,2,15,Georgia Tech
+2009,2,16,TCU
+2009,2,17,Utah
+2009,2,18,Notre Dame
+2009,2,19,North Carolina
+2009,2,20,Miami
+2009,2,21,Georgia
+2009,2,22,Nebraska
+2009,2,23,Cincinnati
+2009,2,24,Kansas
+2009,2,25,Missouri
+2009,3,1,Florida
+2009,3,2,Texas
+2009,3,3,USC
+2009,3,4,Alabama
+2009,3,5,Ole Miss
+2009,3,,Penn State
+2009,3,7,BYU
+2009,3,8,California
+2009,3,9,LSU
+2009,3,10,Boise State
+2009,3,11,Ohio State
+2009,3,12,Oklahoma
+2009,3,13,Virginia Tech
+2009,3,14,Georgia Tech
+2009,3,15,TCU
+2009,3,16,Oklahoma State
+2009,3,17,Cincinnati
+2009,3,18,Utah
+2009,3,19,Nebraska
+2009,3,20,Miami
+2009,3,21,Houston
+2009,3,22,Kansas
+2009,3,23,Georgia
+2009,3,24,North Carolina
+2009,3,25,Michigan
+2009,4,1,Florida
+2009,4,2,Texas
+2009,4,3,Alabama
+2009,4,4,Ole Miss
+2009,4,5,Penn State
+2009,4,6,California
+2009,4,7,LSU
+2009,4,8,Boise State
+2009,4,9,Miami
+2009,4,10,Oklahoma
+2009,4,11,Virginia Tech
+2009,4,12,USC
+2009,4,13,Ohio State
+2009,4,14,Cincinnati
+2009,4,15,TCU
+2009,4,16,Oklahoma State
+2009,4,17,Houston
+2009,4,18,Florida State
+2009,4,19,BYU
+2009,4,20,Kansas
+2009,4,21,Georgia
+2009,4,22,North Carolina
+2009,4,23,Michigan
+2009,4,24,Washington
+2009,4,25,Nebraska
+2009,5,1,Florida
+2009,5,2,Texas
+2009,5,3,Alabama
+2009,5,4,LSU
+2009,5,5,Boise State
+2009,5,6,Virginia Tech
+2009,5,7,USC
+2009,5,8,Oklahoma
+2009,5,9,Ohio State
+2009,5,10,Cincinnati
+2009,5,11,TCU
+2009,5,12,Houston
+2009,5,13,Iowa
+2009,5,14,Oklahoma State
+2009,5,15,Penn State
+2009,5,16,Oregon
+2009,5,17,Miami
+2009,5,18,Kansas
+2009,5,,Georgia
+2009,5,20,BYU
+2009,5,21,Ole Miss
+2009,5,22,Michigan
+2009,5,23,Nebraska
+2009,5,24,California
+2009,5,25,Georgia Tech
+2009,6,1,Florida
+2009,6,2,Texas
+2009,6,3,Alabama
+2009,6,4,LSU
+2009,6,5,Virginia Tech
+2009,6,6,Boise State
+2009,6,7,USC
+2009,6,8,Cincinnati
+2009,6,9,Ohio State
+2009,6,10,TCU
+2009,6,11,Miami
+2009,6,12,Iowa
+2009,6,13,Oregon
+2009,6,14,Penn State
+2009,6,15,Oklahoma State
+2009,6,16,Kansas
+2009,6,17,Auburn
+2009,6,18,BYU
+2009,6,19,Oklahoma
+2009,6,20,Ole Miss
+2009,6,21,Nebraska
+2009,6,22,Georgia Tech
+2009,6,23,South Florida
+2009,6,24,Missouri
+2009,6,25,South Carolina
+2009,7,1,Florida
+2009,7,2,Alabama
+2009,7,3,Texas
+2009,7,4,Virginia Tech
+2009,7,5,Boise State
+2009,7,6,USC
+2009,7,7,Ohio State
+2009,7,8,Cincinnati
+2009,7,9,Miami
+2009,7,10,LSU
+2009,7,11,Iowa
+2009,7,12,TCU
+2009,7,13,Oregon
+2009,7,14,Penn State
+2009,7,15,Nebraska
+2009,7,16,Oklahoma State
+2009,7,17,Kansas
+2009,7,18,BYU
+2009,7,19,Georgia Tech
+2009,7,20,Oklahoma
+2009,7,21,South Florida
+2009,7,22,South Carolina
+2009,7,23,Houston
+2009,7,24,Utah
+2009,7,25,Notre Dame
+2009,8,1,Alabama
+2009,8,2,Florida
+2009,8,3,Texas
+2009,8,4,USC
+2009,8,5,Cincinnati
+2009,8,6,Boise State
+2009,8,7,Iowa
+2009,8,8,Miami
+2009,8,9,LSU
+2009,8,10,TCU
+2009,8,11,Georgia Tech
+2009,8,12,Oregon
+2009,8,13,Penn State
+2009,8,14,Oklahoma State
+2009,8,15,Virginia Tech
+2009,8,16,BYU
+2009,8,17,Houston
+2009,8,18,Ohio State
+2009,8,19,Utah
+2009,8,20,Pittsburgh
+2009,8,21,Texas Tech
+2009,8,22,West Virginia
+2009,8,23,South Carolina
+2009,8,24,Kansas
+2009,8,25,Oklahoma
+2009,9,1,Florida
+2009,9,2,Alabama
+2009,9,3,Texas
+2009,9,4,USC
+2009,9,5,Cincinnati
+2009,9,6,Boise State
+2009,9,7,Iowa
+2009,9,8,TCU
+2009,9,9,LSU
+2009,9,10,Oregon
+2009,9,11,Georgia Tech
+2009,9,12,Penn State
+2009,9,13,Oklahoma State
+2009,9,14,Virginia Tech
+2009,9,15,Houston
+2009,9,16,Pittsburgh
+2009,9,17,Ohio State
+2009,9,18,Miami
+2009,9,19,Utah
+2009,9,20,West Virginia
+2009,9,21,South Carolina
+2009,9,22,Oklahoma
+2009,9,23,Arizona
+2009,9,24,Ole Miss
+2009,9,25,Notre Dame
+2009,10,1,Florida
+2009,10,2,Texas
+2009,10,3,Alabama
+2009,10,4,Cincinnati
+2009,10,5,Boise State
+2009,10,6,TCU
+2009,10,7,Oregon
+2009,10,8,Iowa
+2009,10,9,LSU
+2009,10,10,Georgia Tech
+2009,10,11,Penn State
+2009,10,12,USC
+2009,10,13,Houston
+2009,10,14,Pittsburgh
+2009,10,15,Ohio State
+2009,10,16,Miami
+2009,10,17,Utah
+2009,10,18,Oklahoma State
+2009,10,19,Notre Dame
+2009,10,20,Oklahoma
+2009,10,21,Arizona
+2009,10,22,Virginia Tech
+2009,10,23,California
+2009,10,24,Wisconsin
+2009,10,25,BYU
+2009,11,1,Florida
+2009,11,2,Texas
+2009,11,3,Alabama
+2009,11,4,TCU
+2009,11,5,Cincinnati
+2009,11,6,Boise State
+2009,11,7,Georgia Tech
+2009,11,8,Pittsburgh
+2009,11,9,LSU
+2009,11,10,Ohio State
+2009,11,11,USC
+2009,11,12,Miami
+2009,11,13,Houston
+2009,11,14,Oregon
+2009,11,15,Iowa
+2009,11,16,Utah
+2009,11,17,Oklahoma State
+2009,11,18,Arizona
+2009,11,19,Penn State
+2009,11,20,Virginia Tech
+2009,11,21,Wisconsin
+2009,11,22,BYU
+2009,11,23,South Florida
+2009,11,24,Clemson
+2009,11,25,Stanford
+2009,12,1,Florida
+2009,12,2,Alabama
+2009,12,3,Texas
+2009,12,4,TCU
+2009,12,5,Cincinnati
+2009,12,6,Boise State
+2009,12,7,Georgia Tech
+2009,12,8,Pittsburgh
+2009,12,9,Ohio State
+2009,12,10,LSU
+2009,12,11,Oregon
+2009,12,12,Oklahoma State
+2009,12,13,Penn State
+2009,12,14,Stanford
+2009,12,15,Iowa
+2009,12,16,Virginia Tech
+2009,12,17,Wisconsin
+2009,12,18,Clemson
+2009,12,19,BYU
+2009,12,20,Oregon State
+2009,12,21,Miami
+2009,12,22,USC
+2009,12,23,Utah
+2009,12,24,Houston
+2009,12,25,Rutgers
+2009,13,1,Florida
+2009,13,2,Alabama
+2009,13,3,Texas
+2009,13,4,TCU
+2009,13,5,Cincinnati
+2009,13,6,Boise State
+2009,13,7,Georgia Tech
+2009,13,8,Pittsburgh
+2009,13,9,Ohio State
+2009,13,10,Oregon
+2009,13,11,Oklahoma State
+2009,13,12,Penn State
+2009,13,13,Iowa
+2009,13,14,Virginia Tech
+2009,13,15,Clemson
+2009,13,16,Oregon State
+2009,13,17,LSU
+2009,13,18,BYU
+2009,13,19,Miami
+2009,13,20,Ole Miss
+2009,13,21,California
+2009,13,22,Utah
+2009,13,23,North Carolina
+2009,13,24,USC
+2009,13,25,Houston
+2009,14,1,Florida
+2009,14,2,Alabama
+2009,14,3,Texas
+2009,14,4,TCU
+2009,14,5,Cincinnati
+2009,14,6,Boise State
+2009,14,7,Oregon
+2009,14,8,Ohio State
+2009,14,9,Iowa
+2009,14,10,Penn State
+2009,14,11,Virginia Tech
+2009,14,12,Georgia Tech
+2009,14,13,Oregon State
+2009,14,14,Pittsburgh
+2009,14,15,LSU
+2009,14,16,BYU
+2009,14,17,Miami
+2009,14,18,Houston
+2009,14,19,California
+2009,14,20,USC
+2009,14,21,Nebraska
+2009,14,22,Oklahoma State
+2009,14,23,Stanford
+2009,14,24,West Virginia
+2009,14,25,Clemson
+2009,15,1,Alabama
+2009,15,2,Texas
+2009,15,3,TCU
+2009,15,4,Cincinnati
+2009,15,5,Florida
+2009,15,6,Boise State
+2009,15,7,Oregon
+2009,15,8,Ohio State
+2009,15,9,Georgia Tech
+2009,15,10,Iowa
+2009,15,11,Penn State
+2009,15,12,Virginia Tech
+2009,15,13,LSU
+2009,15,14,Miami
+2009,15,15,BYU
+2009,15,16,Oregon State
+2009,15,17,Pittsburgh
+2009,15,18,West Virginia
+2009,15,19,Stanford
+2009,15,20,Nebraska
+2009,15,21,Oklahoma State
+2009,15,22,Arizona
+2009,15,23,Utah
+2009,15,24,Wisconsin
+2009,15,25,Central Michigan
+2009,16,1,Alabama
+2009,16,2,Texas
+2009,16,3,Florida
+2009,16,4,Boise State
+2009,16,5,Ohio State
+2009,16,6,TCU
+2009,16,7,Iowa
+2009,16,8,Cincinnati
+2009,16,9,Penn State
+2009,16,10,Virginia Tech
+2009,16,11,Oregon
+2009,16,12,BYU
+2009,16,13,Georgia Tech
+2009,16,14,Nebraska
+2009,16,15,Pittsburgh
+2009,16,16,Wisconsin
+2009,16,17,LSU
+2009,16,18,Utah
+2009,16,19,Miami
+2009,16,20,Ole Miss
+2009,16,21,Texas Tech
+2009,16,22,USC
+2009,16,23,Central Michigan
+2009,16,24,Clemson
+2009,16,25,West Virginia
+2010,1,1,Alabama
+2010,1,2,Ohio State
+2010,1,3,Boise State
+2010,1,4,Florida
+2010,1,5,Texas
+2010,1,6,TCU
+2010,1,7,Oklahoma
+2010,1,8,Nebraska
+2010,1,9,Iowa
+2010,1,10,Virginia Tech
+2010,1,11,Oregon
+2010,1,12,Wisconsin
+2010,1,13,Miami
+2010,1,14,USC
+2010,1,15,Pittsburgh
+2010,1,16,Georgia Tech
+2010,1,17,Arkansas
+2010,1,18,North Carolina
+2010,1,19,Penn State
+2010,1,20,Florida State
+2010,1,21,LSU
+2010,1,22,Auburn
+2010,1,23,Georgia
+2010,1,24,Oregon State
+2010,1,25,West Virginia
+2010,2,1,Alabama
+2010,2,2,Ohio State
+2010,2,3,Boise State
+2010,2,4,TCU
+2010,2,5,Texas
+2010,2,6,Nebraska
+2010,2,7,Oregon
+2010,2,8,Florida
+2010,2,9,Iowa
+2010,2,10,Oklahoma
+2010,2,11,Wisconsin
+2010,2,12,Miami
+2010,2,13,Virginia Tech
+2010,2,14,Arkansas
+2010,2,15,Georgia Tech
+2010,2,16,USC
+2010,2,17,Florida State
+2010,2,18,Penn State
+2010,2,19,LSU
+2010,2,20,Utah
+2010,2,21,Auburn
+2010,2,22,Georgia
+2010,2,23,West Virginia
+2010,2,24,South Carolina
+2010,2,25,Stanford
+2010,3,1,Alabama
+2010,3,2,Ohio State
+2010,3,3,Boise State
+2010,3,4,TCU
+2010,3,5,Oregon
+2010,3,6,Texas
+2010,3,7,Oklahoma
+2010,3,8,Nebraska
+2010,3,9,Iowa
+2010,3,10,Florida
+2010,3,11,Wisconsin
+2010,3,12,Arkansas
+2010,3,13,South Carolina
+2010,3,14,Utah
+2010,3,15,LSU
+2010,3,16,Auburn
+2010,3,17,Miami
+2010,3,18,USC
+2010,3,19,Stanford
+2010,3,20,Michigan
+2010,3,21,West Virginia
+2010,3,22,Penn State
+2010,3,23,Houston
+2010,3,24,Arizona
+2010,3,25,Oregon State
+2010,4,1,Alabama
+2010,4,2,Ohio State
+2010,4,3,Boise State
+2010,4,4,TCU
+2010,4,5,Oregon
+2010,4,6,Nebraska
+2010,4,7,Texas
+2010,4,8,Oklahoma
+2010,4,9,Florida
+2010,4,10,Arkansas
+2010,4,11,Wisconsin
+2010,4,12,South Carolina
+2010,4,13,Utah
+2010,4,14,Arizona
+2010,4,15,LSU
+2010,4,16,Stanford
+2010,4,17,Auburn
+2010,4,18,Iowa
+2010,4,19,Miami
+2010,4,20,USC
+2010,4,21,Michigan
+2010,4,22,West Virginia
+2010,4,23,Penn State
+2010,4,24,Oregon State
+2010,4,25,Michigan State
+2010,5,1,Alabama
+2010,5,2,Ohio State
+2010,5,3,Boise State
+2010,5,4,Oregon
+2010,5,5,TCU
+2010,5,6,Nebraska
+2010,5,7,Florida
+2010,5,8,Oklahoma
+2010,5,9,Stanford
+2010,5,10,Auburn
+2010,5,11,Wisconsin
+2010,5,12,LSU
+2010,5,13,Utah
+2010,5,14,Arizona
+2010,5,15,Arkansas
+2010,5,16,Miami
+2010,5,17,Iowa
+2010,5,18,USC
+2010,5,19,Michigan
+2010,5,20,South Carolina
+2010,5,21,Texas
+2010,5,22,Penn State
+2010,5,23,NC State
+2010,5,24,Michigan State
+2010,5,25,Nevada
+2010,6,1,Alabama
+2010,6,2,Ohio State
+2010,6,3,Oregon
+2010,6,4,Boise State
+2010,6,5,TCU
+2010,6,6,Oklahoma
+2010,6,7,Nebraska
+2010,6,8,Auburn
+2010,6,9,Arizona
+2010,6,10,Utah
+2010,6,11,Arkansas
+2010,6,12,LSU
+2010,6,13,Miami
+2010,6,14,Florida
+2010,6,15,Iowa
+2010,6,16,Stanford
+2010,6,17,Michigan State
+2010,6,18,Michigan
+2010,6,19,South Carolina
+2010,6,20,Wisconsin
+2010,6,21,Nevada
+2010,6,22,Oklahoma State
+2010,6,23,Florida State
+2010,6,24,Missouri
+2010,6,25,Air Force
+2010,7,1,Ohio State
+2010,7,2,Oregon
+2010,7,3,Boise State
+2010,7,4,TCU
+2010,7,5,Nebraska
+2010,7,6,Oklahoma
+2010,7,7,Auburn
+2010,7,8,Alabama
+2010,7,9,LSU
+2010,7,10,South Carolina
+2010,7,11,Utah
+2010,7,12,Arkansas
+2010,7,13,Michigan State
+2010,7,14,Stanford
+2010,7,15,Iowa
+2010,7,16,Florida State
+2010,7,17,Arizona
+2010,7,18,Wisconsin
+2010,7,19,Nevada
+2010,7,20,Oklahoma State
+2010,7,21,Missouri
+2010,7,22,Florida
+2010,7,23,Air Force
+2010,7,24,Oregon State
+2010,7,25,West Virginia
+2010,8,1,Oregon
+2010,8,2,Boise State
+2010,8,3,Oklahoma
+2010,8,4,TCU
+2010,8,5,Auburn
+2010,8,6,LSU
+2010,8,7,Alabama
+2010,8,8,Michigan State
+2010,8,9,Utah
+2010,8,10,Wisconsin
+2010,8,11,Ohio State
+2010,8,12,Stanford
+2010,8,13,Iowa
+2010,8,14,Nebraska
+2010,8,15,Arizona
+2010,8,16,Florida State
+2010,8,17,Oklahoma State
+2010,8,18,Missouri
+2010,8,19,South Carolina
+2010,8,20,West Virginia
+2010,8,21,Arkansas
+2010,8,22,Texas
+2010,8,23,Virginia Tech
+2010,8,24,Mississippi State
+2010,8,25,Miami
+2010,9,1,Oregon
+2010,9,2,Boise State
+2010,9,3,Auburn
+2010,9,4,TCU
+2010,9,5,Michigan State
+2010,9,6,Alabama
+2010,9,7,Missouri
+2010,9,8,Utah
+2010,9,9,Wisconsin
+2010,9,10,Ohio State
+2010,9,11,Oklahoma
+2010,9,12,LSU
+2010,9,13,Stanford
+2010,9,14,Nebraska
+2010,9,15,Arizona
+2010,9,16,Florida State
+2010,9,17,South Carolina
+2010,9,18,Iowa
+2010,9,19,Arkansas
+2010,9,20,Oklahoma State
+2010,9,21,Virginia Tech
+2010,9,22,Miami
+2010,9,23,Mississippi State
+2010,9,24,USC
+2010,9,25,Baylor
+2010,10,1,Oregon
+2010,10,2,Boise State
+2010,10,3,Auburn
+2010,10,4,TCU
+2010,10,5,Alabama
+2010,10,6,Utah
+2010,10,7,Wisconsin
+2010,10,8,Ohio State
+2010,10,9,Nebraska
+2010,10,10,Stanford
+2010,10,11,Oklahoma
+2010,10,12,LSU
+2010,10,13,Arizona
+2010,10,14,Missouri
+2010,10,15,Iowa
+2010,10,16,Michigan State
+2010,10,17,Arkansas
+2010,10,18,South Carolina
+2010,10,19,Oklahoma State
+2010,10,20,Virginia Tech
+2010,10,21,Mississippi State
+2010,10,22,Baylor
+2010,10,23,NC State
+2010,10,24,Florida State
+2010,10,25,Nevada
+2010,11,1,Oregon
+2010,11,2,Auburn
+2010,11,3,TCU
+2010,11,4,Boise State
+2010,11,5,LSU
+2010,11,6,Wisconsin
+2010,11,7,Stanford
+2010,11,8,Ohio State
+2010,11,9,Nebraska
+2010,11,10,Michigan State
+2010,11,11,Alabama
+2010,11,12,Oklahoma State
+2010,11,13,Iowa
+2010,11,14,Arkansas
+2010,11,15,Utah
+2010,11,16,Virginia Tech
+2010,11,17,Mississippi State
+2010,11,18,Arizona
+2010,11,19,Oklahoma
+2010,11,20,Missouri
+2010,11,21,Nevada
+2010,11,22,South Carolina
+2010,11,23,Texas A&M;
+2010,11,24,Florida
+2010,11,25,UCF
+2010,12,1,Oregon
+2010,12,2,Auburn
+2010,12,3,Boise State
+2010,12,4,TCU
+2010,12,5,LSU
+2010,12,6,Wisconsin
+2010,12,7,Stanford
+2010,12,8,Ohio State
+2010,12,9,Nebraska
+2010,12,10,Alabama
+2010,12,11,Michigan State
+2010,12,12,Oklahoma State
+2010,12,13,Arkansas
+2010,12,14,Virginia Tech
+2010,12,15,Missouri
+2010,12,16,Oklahoma
+2010,12,17,South Carolina
+2010,12,18,Texas A&M;
+2010,12,19,Nevada
+2010,12,20,USC
+2010,12,21,Iowa
+2010,12,22,Mississippi State
+2010,12,23,Arizona
+2010,12,24,Miami
+2010,12,25,Utah
+2010,13,1,Oregon
+2010,13,2,Auburn
+2010,13,3,Boise State
+2010,13,4,TCU
+2010,13,5,Wisconsin
+2010,13,6,LSU
+2010,13,7,Stanford
+2010,13,8,Ohio State
+2010,13,9,Alabama
+2010,13,10,Oklahoma State
+2010,13,11,Michigan State
+2010,13,12,Arkansas
+2010,13,13,Virginia Tech
+2010,13,14,Oklahoma
+2010,13,15,Missouri
+2010,13,16,Nebraska
+2010,13,17,Texas A&M;
+2010,13,18,South Carolina
+2010,13,19,Nevada
+2010,13,20,Arizona
+2010,13,21,NC State
+2010,13,22,Florida State
+2010,13,23,Utah
+2010,13,24,Iowa
+2010,13,25,Mississippi State
+2010,14,1,Oregon
+2010,14,2,Auburn
+2010,14,3,TCU
+2010,14,4,Wisconsin
+2010,14,5,Stanford
+2010,14,6,Ohio State
+2010,14,7,Michigan State
+2010,14,8,Arkansas
+2010,14,9,Boise State
+2010,14,10,Oklahoma
+2010,14,11,LSU
+2010,14,12,Virginia Tech
+2010,14,13,Nebraska
+2010,14,14,Nevada
+2010,14,15,Missouri
+2010,14,16,Oklahoma State
+2010,14,17,Alabama
+2010,14,18,South Carolina
+2010,14,19,Texas A&M;
+2010,14,20,Florida State
+2010,14,21,Utah
+2010,14,22,Mississippi State
+2010,14,23,West Virginia
+2010,14,24,Northern Illinois
+2010,14,25,Hawai'i
+2010,15,1,Auburn
+2010,15,2,Oregon
+2010,15,3,TCU
+2010,15,4,Wisconsin
+2010,15,5,Stanford
+2010,15,6,Ohio State
+2010,15,7,Michigan State
+2010,15,8,Arkansas
+2010,15,9,Oklahoma
+2010,15,10,Boise State
+2010,15,11,LSU
+2010,15,12,Virginia Tech
+2010,15,13,Nevada
+2010,15,14,Missouri
+2010,15,15,Alabama
+2010,15,16,Oklahoma State
+2010,15,17,Nebraska
+2010,15,18,Texas A&M;
+2010,15,19,South Carolina
+2010,15,20,Utah
+2010,15,21,Mississippi State
+2010,15,22,West Virginia
+2010,15,23,Florida State
+2010,15,24,Hawai'i
+2010,15,25,Connecticut
+2010,16,1,Auburn
+2010,16,2,TCU
+2010,16,3,Oregon
+2010,16,4,Stanford
+2010,16,5,Ohio State
+2010,16,6,Oklahoma
+2010,16,7,Wisconsin
+2010,16,8,LSU
+2010,16,9,Boise State
+2010,16,10,Alabama
+2010,16,11,Nevada
+2010,16,12,Arkansas
+2010,16,13,Oklahoma State
+2010,16,14,Michigan State
+2010,16,15,Mississippi State
+2010,16,16,Virginia Tech
+2010,16,17,Florida State
+2010,16,18,Missouri
+2010,16,19,Texas A&M;
+2010,16,20,Nebraska
+2010,16,21,UCF
+2010,16,22,South Carolina
+2010,16,23,Maryland
+2010,16,24,Tulsa
+2010,16,25,NC State
+2011,1,1,Oklahoma
+2011,1,2,Alabama
+2011,1,3,Oregon
+2011,1,4,LSU
+2011,1,5,Boise State
+2011,1,6,Florida State
+2011,1,7,Stanford
+2011,1,8,Texas A&M;
+2011,1,9,Oklahoma State
+2011,1,10,Nebraska
+2011,1,11,Wisconsin
+2011,1,12,South Carolina
+2011,1,13,Virginia Tech
+2011,1,14,TCU
+2011,1,15,Arkansas
+2011,1,16,Notre Dame
+2011,1,17,Michigan State
+2011,1,18,Ohio State
+2011,1,19,Georgia
+2011,1,20,Mississippi State
+2011,1,21,Missouri
+2011,1,22,Florida
+2011,1,23,Auburn
+2011,1,24,West Virginia
+2011,1,25,USC
+2011,2,1,Oklahoma
+2011,2,2,LSU
+2011,2,3,Alabama
+2011,2,4,Boise State
+2011,2,5,Florida State
+2011,2,6,Stanford
+2011,2,7,Texas A&M;
+2011,2,8,Wisconsin
+2011,2,9,Oklahoma State
+2011,2,10,Nebraska
+2011,2,11,Virginia Tech
+2011,2,12,South Carolina
+2011,2,13,Oregon
+2011,2,14,Arkansas
+2011,2,15,Ohio State
+2011,2,16,Mississippi State
+2011,2,17,Michigan State
+2011,2,18,Florida
+2011,2,19,West Virginia
+2011,2,20,Baylor
+2011,2,21,Missouri
+2011,2,22,South Florida
+2011,2,23,Penn State
+2011,2,24,Texas
+2011,2,25,TCU
+2011,3,1,Oklahoma
+2011,3,2,Alabama
+2011,3,3,LSU
+2011,3,4,Boise State
+2011,3,5,Florida State
+2011,3,6,Stanford
+2011,3,7,Wisconsin
+2011,3,8,Oklahoma State
+2011,3,9,Texas A&M;
+2011,3,10,South Carolina
+2011,3,11,Nebraska
+2011,3,12,Oregon
+2011,3,13,Virginia Tech
+2011,3,14,Arkansas
+2011,3,15,Michigan State
+2011,3,16,Florida
+2011,3,17,Ohio State
+2011,3,18,West Virginia
+2011,3,19,Baylor
+2011,3,20,South Florida
+2011,3,21,Auburn
+2011,3,22,Arizona State
+2011,3,23,Texas
+2011,3,,TCU
+2011,3,25,Mississippi State
+2011,4,1,Oklahoma
+2011,4,2,LSU
+2011,4,3,Alabama
+2011,4,4,Boise State
+2011,4,5,Stanford
+2011,4,6,Wisconsin
+2011,4,7,Oklahoma State
+2011,4,8,Texas A&M;
+2011,4,9,Nebraska
+2011,4,10,Oregon
+2011,4,11,Florida State
+2011,4,12,South Carolina
+2011,4,13,Virginia Tech
+2011,4,14,Arkansas
+2011,4,15,Florida
+2011,4,16,West Virginia
+2011,4,17,Baylor
+2011,4,18,South Florida
+2011,4,19,Texas
+2011,4,20,TCU
+2011,4,21,Clemson
+2011,4,22,Michigan
+2011,4,23,USC
+2011,4,24,Illinois
+2011,4,25,Georgia Tech
+2011,5,1,LSU
+2011,5,2,Oklahoma
+2011,5,3,Alabama
+2011,5,4,Boise State
+2011,5,5,Oklahoma State
+2011,5,6,Stanford
+2011,5,7,Wisconsin
+2011,5,8,Nebraska
+2011,5,9,Oregon
+2011,5,10,South Carolina
+2011,5,11,Virginia Tech
+2011,5,12,Florida
+2011,5,13,Clemson
+2011,5,14,Texas A&M;
+2011,5,15,Baylor
+2011,5,16,South Florida
+2011,5,17,Texas
+2011,5,18,Arkansas
+2011,5,19,Michigan
+2011,5,20,TCU
+2011,5,21,Georgia Tech
+2011,5,22,West Virginia
+2011,5,23,Florida State
+2011,5,24,Illinois
+2011,5,25,Arizona State
+2011,6,1,LSU
+2011,6,2,Alabama
+2011,6,3,Oklahoma
+2011,6,4,Wisconsin
+2011,6,5,Boise State
+2011,6,6,Oklahoma State
+2011,6,7,Stanford
+2011,6,8,Clemson
+2011,6,9,Oregon
+2011,6,10,Arkansas
+2011,6,11,Texas
+2011,6,12,Michigan
+2011,6,13,Georgia Tech
+2011,6,14,Nebraska
+2011,6,15,Auburn
+2011,6,16,West Virginia
+2011,6,17,Florida
+2011,6,18,South Carolina
+2011,6,19,Illinois
+2011,6,20,Kansas State
+2011,6,21,Virginia Tech
+2011,6,22,Arizona State
+2011,6,23,Florida State
+2011,6,24,Texas A&M;
+2011,6,25,Baylor
+2011,7,1,LSU
+2011,7,2,Alabama
+2011,7,3,Oklahoma
+2011,7,4,Wisconsin
+2011,7,5,Boise State
+2011,7,6,Oklahoma State
+2011,7,7,Stanford
+2011,7,8,Clemson
+2011,7,9,Oregon
+2011,7,10,Arkansas
+2011,7,11,Michigan
+2011,7,12,Georgia Tech
+2011,7,13,West Virginia
+2011,7,14,Nebraska
+2011,7,15,South Carolina
+2011,7,16,Illinois
+2011,7,17,Kansas State
+2011,7,18,Arizona State
+2011,7,19,Virginia Tech
+2011,7,20,Baylor
+2011,7,21,Texas A&M;
+2011,7,22,Texas
+2011,7,23,Michigan State
+2011,7,24,Auburn
+2011,7,25,Houston
+2011,8,1,LSU
+2011,8,2,Alabama
+2011,8,3,Oklahoma
+2011,8,4,Wisconsin
+2011,8,5,Boise State
+2011,8,6,Oklahoma State
+2011,8,7,Stanford
+2011,8,8,Clemson
+2011,8,9,Oregon
+2011,8,10,Arkansas
+2011,8,11,West Virginia
+2011,8,12,Kansas State
+2011,8,13,Nebraska
+2011,8,14,South Carolina
+2011,8,15,Michigan State
+2011,8,16,Virginia Tech
+2011,8,17,Texas A&M;
+2011,8,18,Michigan
+2011,8,19,Auburn
+2011,8,20,Georgia Tech
+2011,8,21,Houston
+2011,8,22,Washington
+2011,8,23,Illinois
+2011,8,24,Georgia
+2011,8,,Arizona State
+2011,9,1,LSU
+2011,9,2,Alabama
+2011,9,3,Oklahoma State
+2011,9,4,Stanford
+2011,9,5,Boise State
+2011,9,6,Clemson
+2011,9,7,Oregon
+2011,9,8,Arkansas
+2011,9,9,Michigan State
+2011,9,10,Kansas State
+2011,9,11,Oklahoma
+2011,9,12,Wisconsin
+2011,9,13,Nebraska
+2011,9,14,South Carolina
+2011,9,15,Virginia Tech
+2011,9,16,Texas A&M;
+2011,9,17,Michigan
+2011,9,18,Houston
+2011,9,19,Texas Tech
+2011,9,20,USC
+2011,9,21,Penn State
+2011,9,22,Georgia
+2011,9,23,Arizona State
+2011,9,24,Cincinnati
+2011,9,25,West Virginia
+2011,10,1,LSU
+2011,10,2,Alabama
+2011,10,3,Oklahoma State
+2011,10,4,Stanford
+2011,10,5,Boise State
+2011,10,6,Oregon
+2011,10,7,Oklahoma
+2011,10,8,Arkansas
+2011,10,9,Nebraska
+2011,10,10,South Carolina
+2011,10,11,Clemson
+2011,10,12,Virginia Tech
+2011,10,13,Michigan
+2011,10,14,Houston
+2011,10,15,Michigan State
+2011,10,16,Penn State
+2011,10,17,Kansas State
+2011,10,18,Georgia
+2011,10,19,Wisconsin
+2011,10,20,Arizona State
+2011,10,21,USC
+2011,10,22,Georgia Tech
+2011,10,23,Cincinnati
+2011,10,24,West Virginia
+2011,10,25,Auburn
+2011,11,1,LSU
+2011,11,2,Oklahoma State
+2011,11,3,Stanford
+2011,11,4,Alabama
+2011,11,5,Boise State
+2011,11,6,Oregon
+2011,11,7,Oklahoma
+2011,11,8,Arkansas
+2011,11,9,Clemson
+2011,11,10,Virginia Tech
+2011,11,11,Houston
+2011,11,12,Penn State
+2011,11,13,Michigan State
+2011,11,14,Georgia
+2011,11,15,South Carolina
+2011,11,16,Wisconsin
+2011,11,17,Kansas State
+2011,11,18,USC
+2011,11,19,Nebraska
+2011,11,20,Georgia Tech
+2011,11,21,Texas
+2011,11,22,Michigan
+2011,11,23,Cincinnati
+2011,11,24,Auburn
+2011,11,25,Southern Mississippi
+2011,12,1,LSU
+2011,12,2,Oklahoma State
+2011,12,3,Alabama
+2011,12,4,Oregon
+2011,12,5,Oklahoma
+2011,12,6,Arkansas
+2011,12,7,Clemson
+2011,12,8,Stanford
+2011,12,9,Virginia Tech
+2011,12,10,Boise State
+2011,12,11,Houston
+2011,12,12,Michigan State
+2011,12,13,Georgia
+2011,12,14,South Carolina
+2011,12,15,Wisconsin
+2011,12,16,Kansas State
+2011,12,17,Nebraska
+2011,12,18,USC
+2011,12,19,TCU
+2011,12,20,Michigan
+2011,12,21,Penn State
+2011,12,22,Southern Mississippi
+2011,12,23,Florida State
+2011,12,24,Notre Dame
+2011,12,25,Baylor
+2011,13,1,LSU
+2011,13,2,Alabama
+2011,13,3,Arkansas
+2011,13,4,Stanford
+2011,13,5,Oklahoma State
+2011,13,6,Virginia Tech
+2011,13,7,Boise State
+2011,13,8,Houston
+2011,13,9,Oregon
+2011,13,10,USC
+2011,13,11,Michigan State
+2011,13,12,Oklahoma
+2011,13,13,Georgia
+2011,13,14,South Carolina
+2011,13,15,Wisconsin
+2011,13,16,Kansas State
+2011,13,17,Michigan
+2011,13,18,Clemson
+2011,13,19,TCU
+2011,13,20,Penn State
+2011,13,21,Baylor
+2011,13,22,Notre Dame
+2011,13,,Nebraska
+2011,13,24,Virginia
+2011,13,25,Georgia Tech
+2011,14,1,LSU
+2011,14,2,Alabama
+2011,14,3,Oklahoma State
+2011,14,4,Stanford
+2011,14,5,Virginia Tech
+2011,14,6,Arkansas
+2011,14,7,Houston
+2011,14,8,Oregon
+2011,14,9,Boise State
+2011,14,,USC
+2011,14,11,Michigan State
+2011,14,12,Georgia
+2011,14,13,Oklahoma
+2011,14,14,South Carolina
+2011,14,15,Wisconsin
+2011,14,16,Kansas State
+2011,14,17,Michigan
+2011,14,18,TCU
+2011,14,19,Baylor
+2011,14,20,Nebraska
+2011,14,21,Clemson
+2011,14,22,West Virginia
+2011,14,23,Penn State
+2011,14,24,Southern Mississippi
+2011,14,25,Florida State
+2011,15,1,LSU
+2011,15,2,Alabama
+2011,15,3,Oklahoma State
+2011,15,4,Stanford
+2011,15,5,USC
+2011,15,6,Oregon
+2011,15,7,Arkansas
+2011,15,8,Boise State
+2011,15,9,Wisconsin
+2011,15,10,South Carolina
+2011,15,11,Kansas State
+2011,15,12,Michigan State
+2011,15,13,Michigan
+2011,15,14,Clemson
+2011,15,15,Baylor
+2011,15,16,TCU
+2011,15,17,Virginia Tech
+2011,15,18,Georgia
+2011,15,19,Oklahoma
+2011,15,20,Houston
+2011,15,21,Nebraska
+2011,15,22,Southern Mississippi
+2011,15,23,West Virginia
+2011,15,24,Penn State
+2011,15,25,Florida State
+2011,16,1,Alabama
+2011,16,2,LSU
+2011,16,3,Oklahoma State
+2011,16,4,Oregon
+2011,16,5,Arkansas
+2011,16,6,USC
+2011,16,7,Stanford
+2011,16,8,Boise State
+2011,16,9,South Carolina
+2011,16,10,Wisconsin
+2011,16,11,Michigan State
+2011,16,12,Michigan
+2011,16,13,Baylor
+2011,16,14,TCU
+2011,16,15,Kansas State
+2011,16,16,Oklahoma
+2011,16,17,West Virginia
+2011,16,18,Houston
+2011,16,19,Georgia
+2011,16,20,Southern Mississippi
+2011,16,21,Virginia Tech
+2011,16,22,Clemson
+2011,16,23,Florida State
+2011,16,24,Nebraska
+2011,16,25,Cincinnati
+2012,1,1,USC
+2012,1,2,Alabama
+2012,1,3,LSU
+2012,1,4,Oklahoma
+2012,1,5,Oregon
+2012,1,6,Georgia
+2012,1,7,Florida State
+2012,1,8,Michigan
+2012,1,9,South Carolina
+2012,1,10,Arkansas
+2012,1,11,West Virginia
+2012,1,12,Wisconsin
+2012,1,13,Michigan State
+2012,1,14,Clemson
+2012,1,15,Texas
+2012,1,16,Virginia Tech
+2012,1,17,Nebraska
+2012,1,18,Ohio State
+2012,1,19,Oklahoma State
+2012,1,20,TCU
+2012,1,21,Stanford
+2012,1,22,Kansas State
+2012,1,23,Florida
+2012,1,24,Boise State
+2012,1,25,Louisville
+2012,2,1,Alabama
+2012,2,2,USC
+2012,2,3,LSU
+2012,2,4,Oregon
+2012,2,5,Oklahoma
+2012,2,6,Florida State
+2012,2,7,Georgia
+2012,2,8,Arkansas
+2012,2,9,West Virginia
+2012,2,,South Carolina
+2012,2,11,Michigan State
+2012,2,12,Clemson
+2012,2,13,Wisconsin
+2012,2,14,Ohio State
+2012,2,15,Virginia Tech
+2012,2,16,Nebraska
+2012,2,17,Texas
+2012,2,18,Oklahoma State
+2012,2,19,Michigan
+2012,2,20,TCU
+2012,2,21,Kansas State
+2012,2,22,Notre Dame
+2012,2,23,Louisville
+2012,2,24,Florida
+2012,2,25,Stanford
+2012,3,1,Alabama
+2012,3,2,USC
+2012,3,3,LSU
+2012,3,4,Oregon
+2012,3,5,Oklahoma
+2012,3,,Florida State
+2012,3,7,Georgia
+2012,3,8,South Carolina
+2012,3,9,West Virginia
+2012,3,10,Michigan State
+2012,3,11,Clemson
+2012,3,12,Ohio State
+2012,3,13,Virginia Tech
+2012,3,14,Texas
+2012,3,15,Kansas State
+2012,3,16,TCU
+2012,3,17,Michigan
+2012,3,18,Florida
+2012,3,19,Louisville
+2012,3,20,Notre Dame
+2012,3,21,Stanford
+2012,3,22,UCLA
+2012,3,23,Tennessee
+2012,3,24,Arizona
+2012,3,25,BYU
+2012,4,1,Alabama
+2012,4,2,LSU
+2012,4,3,Oregon
+2012,4,4,Florida State
+2012,4,5,Georgia
+2012,4,6,Oklahoma
+2012,4,7,South Carolina
+2012,4,8,West Virginia
+2012,4,9,Stanford
+2012,4,10,Clemson
+2012,4,11,Notre Dame
+2012,4,12,Texas
+2012,4,13,USC
+2012,4,14,Florida
+2012,4,15,Kansas State
+2012,4,16,Ohio State
+2012,4,17,TCU
+2012,4,18,Michigan
+2012,4,19,UCLA
+2012,4,20,Louisville
+2012,4,21,Michigan State
+2012,4,22,Arizona
+2012,4,23,Mississippi State
+2012,4,24,Boise State
+2012,4,25,Nebraska
+2012,5,1,Alabama
+2012,5,2,Oregon
+2012,5,3,LSU
+2012,5,4,Florida State
+2012,5,5,Georgia
+2012,5,6,South Carolina
+2012,5,7,Kansas State
+2012,5,8,Stanford
+2012,5,9,West Virginia
+2012,5,10,Notre Dame
+2012,5,11,Florida
+2012,5,12,Texas
+2012,5,13,USC
+2012,5,14,Ohio State
+2012,5,15,TCU
+2012,5,16,Oklahoma
+2012,5,17,Clemson
+2012,5,18,Oregon State
+2012,5,19,Louisville
+2012,5,20,Michigan State
+2012,5,21,Mississippi State
+2012,5,22,Nebraska
+2012,5,23,Rutgers
+2012,5,24,Boise State
+2012,5,25,Baylor
+2012,6,1,Alabama
+2012,6,2,Oregon
+2012,6,3,Florida State
+2012,6,4,LSU
+2012,6,5,Georgia
+2012,6,6,South Carolina
+2012,6,7,Kansas State
+2012,6,8,West Virginia
+2012,6,9,Notre Dame
+2012,6,10,Florida
+2012,6,11,Texas
+2012,6,12,Ohio State
+2012,6,13,USC
+2012,6,14,Oregon State
+2012,6,15,Clemson
+2012,6,,TCU
+2012,6,17,Oklahoma
+2012,6,18,Stanford
+2012,6,19,Louisville
+2012,6,20,Mississippi State
+2012,6,21,Nebraska
+2012,6,22,Rutgers
+2012,6,23,Washington
+2012,6,24,Northwestern
+2012,6,25,UCLA
+2012,7,1,Alabama
+2012,7,2,Oregon
+2012,7,3,South Carolina
+2012,7,4,Florida
+2012,7,5,West Virginia
+2012,7,6,Kansas State
+2012,7,7,Notre Dame
+2012,7,8,Ohio State
+2012,7,9,LSU
+2012,7,10,Oregon State
+2012,7,11,USC
+2012,7,12,Florida State
+2012,7,13,Oklahoma
+2012,7,14,Georgia
+2012,7,15,Texas
+2012,7,16,Clemson
+2012,7,17,Stanford
+2012,7,18,Louisville
+2012,7,19,Mississippi State
+2012,7,20,Rutgers
+2012,7,21,Cincinnati
+2012,7,22,Texas A&M;
+2012,7,23,Louisiana Tech
+2012,7,24,Boise State
+2012,7,25,Michigan
+2012,8,1,Alabama
+2012,8,2,Oregon
+2012,8,3,Florida
+2012,8,4,Kansas State
+2012,8,5,Notre Dame
+2012,8,6,LSU
+2012,8,7,Ohio State
+2012,8,8,Oregon State
+2012,8,9,South Carolina
+2012,8,10,Oklahoma
+2012,8,11,USC
+2012,8,12,Florida State
+2012,8,13,Georgia
+2012,8,14,Clemson
+2012,8,15,Mississippi State
+2012,8,16,Louisville
+2012,8,17,West Virginia
+2012,8,18,Texas Tech
+2012,8,19,Rutgers
+2012,8,20,Texas A&M;
+2012,8,21,Cincinnati
+2012,8,22,Stanford
+2012,8,23,Michigan
+2012,8,24,Boise State
+2012,8,25,Ohio
+2012,9,1,Alabama
+2012,9,2,Oregon
+2012,9,3,Florida
+2012,9,4,Kansas State
+2012,9,5,Notre Dame
+2012,9,6,LSU
+2012,9,7,Oregon State
+2012,9,8,Oklahoma
+2012,9,9,Ohio State
+2012,9,10,USC
+2012,9,11,Florida State
+2012,9,12,Georgia
+2012,9,13,Mississippi State
+2012,9,14,Clemson
+2012,9,15,Texas Tech
+2012,9,16,Louisville
+2012,9,17,South Carolina
+2012,9,18,Rutgers
+2012,9,19,Stanford
+2012,9,20,Michigan
+2012,9,21,Boise State
+2012,9,22,Texas A&M;
+2012,9,23,Ohio
+2012,9,24,Louisiana Tech
+2012,9,25,West Virginia
+2012,10,1,Alabama
+2012,10,2,Oregon
+2012,10,3,Kansas State
+2012,10,4,Notre Dame
+2012,10,5,LSU
+2012,10,6,Ohio State
+2012,10,7,Georgia
+2012,10,8,Florida
+2012,10,9,Florida State
+2012,10,10,Clemson
+2012,10,11,South Carolina
+2012,10,12,Louisville
+2012,10,13,Oregon State
+2012,10,14,Oklahoma
+2012,10,15,Stanford
+2012,10,16,Texas A&M;
+2012,10,17,Mississippi State
+2012,10,18,USC
+2012,10,19,Boise State
+2012,10,20,Texas Tech
+2012,10,21,Nebraska
+2012,10,22,Louisiana Tech
+2012,10,23,West Virginia
+2012,10,24,Arizona
+2012,10,25,UCLA
+2012,11,1,Alabama
+2012,11,2,Oregon
+2012,11,3,Kansas State
+2012,11,4,Notre Dame
+2012,11,5,Ohio State
+2012,11,,Georgia
+2012,11,7,Florida
+2012,11,8,Florida State
+2012,11,9,LSU
+2012,11,10,Clemson
+2012,11,11,Louisville
+2012,11,12,South Carolina
+2012,11,13,Oregon State
+2012,11,14,Oklahoma
+2012,11,15,Texas A&M;
+2012,11,16,Stanford
+2012,11,17,UCLA
+2012,11,18,Nebraska
+2012,11,19,Texas
+2012,11,,Louisiana Tech
+2012,11,21,USC
+2012,11,22,Mississippi State
+2012,11,23,Toledo
+2012,11,24,Rutgers
+2012,11,25,Texas Tech
+2012,12,1,Oregon
+2012,12,2,Kansas State
+2012,12,3,Notre Dame
+2012,12,4,Alabama
+2012,12,5,Georgia
+2012,12,6,Ohio State
+2012,12,7,Florida
+2012,12,8,LSU
+2012,12,9,Texas A&M;
+2012,12,10,Florida State
+2012,12,11,Clemson
+2012,12,12,South Carolina
+2012,12,13,Oklahoma
+2012,12,14,Stanford
+2012,12,15,Oregon State
+2012,12,16,Nebraska
+2012,12,17,UCLA
+2012,12,18,Texas
+2012,12,19,Louisiana Tech
+2012,12,20,Louisville
+2012,12,21,USC
+2012,12,22,Rutgers
+2012,12,23,Michigan
+2012,12,,Texas Tech
+2012,12,25,Kent State
+2012,13,1,Notre Dame
+2012,13,2,Alabama
+2012,13,3,Georgia
+2012,13,4,Ohio State
+2012,13,5,Oregon
+2012,13,6,Florida
+2012,13,7,Kansas State
+2012,13,8,LSU
+2012,13,9,Texas A&M;
+2012,13,10,Florida State
+2012,13,11,Stanford
+2012,13,12,Clemson
+2012,13,13,South Carolina
+2012,13,14,Oklahoma
+2012,13,15,UCLA
+2012,13,16,Oregon State
+2012,13,17,Nebraska
+2012,13,18,Texas
+2012,13,19,Louisville
+2012,13,20,Michigan
+2012,13,21,Rutgers
+2012,13,22,Oklahoma State
+2012,13,23,Kent State
+2012,13,24,Northern Illinois
+2012,13,25,Utah State
+2012,13,,Mississippi State
+2012,14,1,Notre Dame
+2012,14,2,Alabama
+2012,14,3,Georgia
+2012,14,4,Ohio State
+2012,14,5,Florida
+2012,14,6,Oregon
+2012,14,7,Kansas State
+2012,14,8,Stanford
+2012,14,9,LSU
+2012,14,10,Texas A&M;
+2012,14,11,South Carolina
+2012,14,12,Oklahoma
+2012,14,13,Florida State
+2012,14,14,Nebraska
+2012,14,15,Clemson
+2012,14,16,Oregon State
+2012,14,17,UCLA
+2012,14,18,Kent State
+2012,14,19,Northern Illinois
+2012,14,20,Utah State
+2012,14,21,Michigan
+2012,14,22,Northwestern
+2012,14,23,Texas
+2012,14,24,Oklahoma State
+2012,14,25,Boise State
+2012,15,1,Notre Dame
+2012,15,2,Alabama
+2012,15,3,Ohio State
+2012,15,4,Florida
+2012,15,5,Oregon
+2012,15,6,Georgia
+2012,15,7,Kansas State
+2012,15,8,Stanford
+2012,15,9,LSU
+2012,15,10,Texas A&M;
+2012,15,11,South Carolina
+2012,15,12,Oklahoma
+2012,15,13,Florida State
+2012,15,14,Clemson
+2012,15,15,Oregon State
+2012,15,16,Northern Illinois
+2012,15,17,UCLA
+2012,15,18,Utah State
+2012,15,19,Michigan
+2012,15,20,Boise State
+2012,15,21,Northwestern
+2012,15,22,Louisville
+2012,15,23,Nebraska
+2012,15,24,San Jose State
+2012,15,25,Kent State
+2012,16,1,Alabama
+2012,16,2,Oregon
+2012,16,3,Ohio State
+2012,16,4,Notre Dame
+2012,16,5,Georgia
+2012,16,,Texas A&M;
+2012,16,7,Stanford
+2012,16,8,South Carolina
+2012,16,9,Florida
+2012,16,10,Florida State
+2012,16,11,Clemson
+2012,16,12,Kansas State
+2012,16,13,Louisville
+2012,16,14,LSU
+2012,16,15,Oklahoma
+2012,16,16,Utah State
+2012,16,17,Northwestern
+2012,16,18,Boise State
+2012,16,19,Texas
+2012,16,20,Oregon State
+2012,16,21,San Jose State
+2012,16,22,Northern Illinois
+2012,16,23,Vanderbilt
+2012,16,24,Michigan
+2012,16,25,Nebraska
+2013,1,1,Alabama
+2013,1,2,Ohio State
+2013,1,3,Oregon
+2013,1,4,Stanford
+2013,1,5,Georgia
+2013,1,6,South Carolina
+2013,1,7,Texas A&M;
+2013,1,8,Clemson
+2013,1,9,Louisville
+2013,1,10,Florida
+2013,1,11,Florida State
+2013,1,12,LSU
+2013,1,13,Oklahoma State
+2013,1,14,Notre Dame
+2013,1,15,Texas
+2013,1,16,Oklahoma
+2013,1,17,Michigan
+2013,1,18,Nebraska
+2013,1,19,Boise State
+2013,1,20,TCU
+2013,1,21,UCLA
+2013,1,22,Northwestern
+2013,1,23,Wisconsin
+2013,1,24,USC
+2013,1,25,Oregon State
+2013,2,1,Alabama
+2013,2,2,Oregon
+2013,2,3,Ohio State
+2013,2,4,Clemson
+2013,2,5,Stanford
+2013,2,6,South Carolina
+2013,2,7,Texas A&M;
+2013,2,8,Louisville
+2013,2,9,LSU
+2013,2,10,Florida State
+2013,2,11,Georgia
+2013,2,12,Florida
+2013,2,13,Oklahoma State
+2013,2,14,Notre Dame
+2013,2,15,Texas
+2013,2,16,Oklahoma
+2013,2,17,Michigan
+2013,2,18,UCLA
+2013,2,19,Northwestern
+2013,2,20,Washington
+2013,2,21,Wisconsin
+2013,2,22,Nebraska
+2013,2,23,Baylor
+2013,2,24,TCU
+2013,2,25,USC
+2013,3,1,Alabama
+2013,3,2,Oregon
+2013,3,3,Clemson
+2013,3,4,Ohio State
+2013,3,5,Stanford
+2013,3,6,Texas A&M;
+2013,3,7,Louisville
+2013,3,8,LSU
+2013,3,9,Georgia
+2013,3,10,Florida State
+2013,3,11,Michigan
+2013,3,12,Oklahoma State
+2013,3,13,South Carolina
+2013,3,14,Oklahoma
+2013,3,15,Miami
+2013,3,16,UCLA
+2013,3,17,Northwestern
+2013,3,18,Florida
+2013,3,19,Washington
+2013,3,20,Wisconsin
+2013,3,21,Notre Dame
+2013,3,22,Baylor
+2013,3,23,Nebraska
+2013,3,24,TCU
+2013,3,25,Ole Miss
+2013,4,1,Alabama
+2013,4,2,Oregon
+2013,4,3,Clemson
+2013,4,4,Ohio State
+2013,4,5,Stanford
+2013,4,6,LSU
+2013,4,7,Louisville
+2013,4,8,Florida State
+2013,4,9,Georgia
+2013,4,10,Texas A&M;
+2013,4,11,Oklahoma State
+2013,4,12,South Carolina
+2013,4,13,UCLA
+2013,4,14,Oklahoma
+2013,4,15,Michigan
+2013,4,16,Miami
+2013,4,17,Washington
+2013,4,18,Northwestern
+2013,4,19,Florida
+2013,4,20,Baylor
+2013,4,21,Ole Miss
+2013,4,22,Notre Dame
+2013,4,23,Arizona State
+2013,4,24,Wisconsin
+2013,4,25,Texas Tech
+2013,5,1,Alabama
+2013,5,2,Oregon
+2013,5,3,Clemson
+2013,5,4,Ohio State
+2013,5,5,Stanford
+2013,5,6,LSU
+2013,5,7,Louisville
+2013,5,8,Florida State
+2013,5,9,Georgia
+2013,5,10,Texas A&M;
+2013,5,11,Oklahoma State
+2013,5,12,South Carolina
+2013,5,13,UCLA
+2013,5,14,Oklahoma
+2013,5,15,Miami
+2013,5,16,Washington
+2013,5,17,Northwestern
+2013,5,18,Michigan
+2013,5,19,Baylor
+2013,5,20,Florida
+2013,5,21,Ole Miss
+2013,5,22,Notre Dame
+2013,5,23,Wisconsin
+2013,5,24,Texas Tech
+2013,5,25,Fresno State
+2013,6,1,Alabama
+2013,6,2,Oregon
+2013,6,3,Clemson
+2013,6,4,Ohio State
+2013,6,5,Stanford
+2013,6,6,Georgia
+2013,6,7,Louisville
+2013,6,8,Florida State
+2013,6,9,Texas A&M;
+2013,6,10,LSU
+2013,6,11,Oklahoma
+2013,6,12,UCLA
+2013,6,13,South Carolina
+2013,6,14,Miami
+2013,6,15,Washington
+2013,6,16,Northwestern
+2013,6,17,Baylor
+2013,6,18,Florida
+2013,6,19,Michigan
+2013,6,20,Texas Tech
+2013,6,21,Oklahoma State
+2013,6,22,Arizona State
+2013,6,23,Fresno State
+2013,6,24,Ole Miss
+2013,6,25,Maryland
+2013,7,1,Alabama
+2013,7,2,Oregon
+2013,7,3,Clemson
+2013,7,4,Ohio State
+2013,7,5,Stanford
+2013,7,6,Florida State
+2013,7,7,Georgia
+2013,7,8,Louisville
+2013,7,9,Texas A&M;
+2013,7,10,LSU
+2013,7,11,UCLA
+2013,7,12,Oklahoma
+2013,7,13,Miami
+2013,7,14,South Carolina
+2013,7,15,Baylor
+2013,7,16,Washington
+2013,7,17,Florida
+2013,7,18,Michigan
+2013,7,19,Northwestern
+2013,7,20,Texas Tech
+2013,7,21,Fresno State
+2013,7,22,Oklahoma State
+2013,7,23,Northern Illinois
+2013,7,24,Virginia Tech
+2013,7,25,Missouri
+2013,8,1,Alabama
+2013,8,2,Oregon
+2013,8,3,Clemson
+2013,8,4,Ohio State
+2013,8,5,Florida State
+2013,8,6,LSU
+2013,8,7,Texas A&M;
+2013,8,8,Louisville
+2013,8,9,UCLA
+2013,8,10,Miami
+2013,8,11,South Carolina
+2013,8,12,Baylor
+2013,8,13,Stanford
+2013,8,14,Missouri
+2013,8,15,Georgia
+2013,8,16,Texas Tech
+2013,8,17,Fresno State
+2013,8,18,Oklahoma
+2013,8,19,Virginia Tech
+2013,8,20,Washington
+2013,8,21,Oklahoma State
+2013,8,22,Florida
+2013,8,23,Northern Illinois
+2013,8,24,Auburn
+2013,8,25,Wisconsin
+2013,9,1,Alabama
+2013,9,2,Oregon
+2013,9,3,Florida State
+2013,9,4,Ohio State
+2013,9,5,Missouri
+2013,9,6,Baylor
+2013,9,7,Miami
+2013,9,8,Stanford
+2013,9,9,Clemson
+2013,9,10,Texas Tech
+2013,9,11,Auburn
+2013,9,12,UCLA
+2013,9,13,LSU
+2013,9,14,Texas A&M;
+2013,9,15,Fresno State
+2013,9,16,Virginia Tech
+2013,9,17,Oklahoma
+2013,9,18,Louisville
+2013,9,19,Oklahoma State
+2013,9,20,South Carolina
+2013,9,21,UCF
+2013,9,22,Wisconsin
+2013,9,23,Northern Illinois
+2013,9,24,Michigan
+2013,9,25,Nebraska
+2013,10,1,Alabama
+2013,10,2,Oregon
+2013,10,3,Florida State
+2013,10,4,Ohio State
+2013,10,5,Baylor
+2013,10,6,Stanford
+2013,10,7,Miami
+2013,10,8,Auburn
+2013,10,9,Clemson
+2013,10,10,Missouri
+2013,10,11,LSU
+2013,10,12,Texas A&M;
+2013,10,13,Oklahoma
+2013,10,14,South Carolina
+2013,10,15,Texas Tech
+2013,10,16,Fresno State
+2013,10,17,UCLA
+2013,10,18,Oklahoma State
+2013,10,19,UCF
+2013,10,20,Louisville
+2013,10,21,Northern Illinois
+2013,10,22,Wisconsin
+2013,10,23,Michigan
+2013,10,24,Michigan State
+2013,10,25,Arizona State
+2013,11,1,Alabama
+2013,11,2,Oregon
+2013,11,3,Florida State
+2013,11,4,Ohio State
+2013,11,5,Baylor
+2013,11,6,Stanford
+2013,11,7,Auburn
+2013,11,8,Clemson
+2013,11,9,Missouri
+2013,11,10,LSU
+2013,11,11,Texas A&M;
+2013,11,12,Oklahoma
+2013,11,13,South Carolina
+2013,11,14,Miami
+2013,11,15,Oklahoma State
+2013,11,16,UCLA
+2013,11,17,Fresno State
+2013,11,18,Michigan State
+2013,11,19,UCF
+2013,11,20,Louisville
+2013,11,21,Wisconsin
+2013,11,22,Northern Illinois
+2013,11,23,Arizona State
+2013,11,24,Notre Dame
+2013,11,25,Texas Tech
+2013,12,1,Alabama
+2013,12,2,Florida State
+2013,12,3,Ohio State
+2013,12,4,Baylor
+2013,12,5,Stanford
+2013,12,6,Oregon
+2013,12,7,Auburn
+2013,12,8,Clemson
+2013,12,9,Missouri
+2013,12,10,Texas A&M;
+2013,12,11,South Carolina
+2013,12,12,Oklahoma State
+2013,12,13,UCLA
+2013,12,14,Michigan State
+2013,12,15,UCF
+2013,12,16,Fresno State
+2013,12,17,Wisconsin
+2013,12,18,LSU
+2013,12,19,Louisville
+2013,12,20,Northern Illinois
+2013,12,21,Arizona State
+2013,12,22,Oklahoma
+2013,12,23,Texas
+2013,12,24,Miami
+2013,12,25,Georgia
+2013,13,1,Alabama
+2013,13,2,Florida State
+2013,13,3,Baylor
+2013,13,4,Ohio State
+2013,13,5,Oregon
+2013,13,6,Auburn
+2013,13,7,Clemson
+2013,13,8,Missouri
+2013,13,9,Texas A&M;
+2013,13,10,Stanford
+2013,13,11,Oklahoma State
+2013,13,12,South Carolina
+2013,13,13,Michigan State
+2013,13,14,UCLA
+2013,13,15,Fresno State
+2013,13,16,Wisconsin
+2013,13,17,UCF
+2013,13,18,LSU
+2013,13,19,Arizona State
+2013,13,20,Northern Illinois
+2013,13,21,Louisville
+2013,13,22,Oklahoma
+2013,13,23,USC
+2013,13,24,Ole Miss
+2013,13,25,Duke
+2013,14,1,Alabama
+2013,14,2,Florida State
+2013,14,3,Ohio State
+2013,14,4,Auburn
+2013,14,5,Missouri
+2013,14,6,Clemson
+2013,14,7,Oklahoma State
+2013,14,8,Stanford
+2013,14,9,Baylor
+2013,14,10,South Carolina
+2013,14,11,Michigan State
+2013,14,12,Oregon
+2013,14,13,Arizona State
+2013,14,14,Wisconsin
+2013,14,15,LSU
+2013,14,16,Fresno State
+2013,14,17,UCF
+2013,14,18,Northern Illinois
+2013,14,19,Texas A&M;
+2013,14,20,Oklahoma
+2013,14,21,Louisville
+2013,14,22,UCLA
+2013,14,23,USC
+2013,14,24,Duke
+2013,14,25,Notre Dame
+2013,15,1,Florida State
+2013,15,2,Ohio State
+2013,15,3,Auburn
+2013,15,4,Alabama
+2013,15,5,Missouri
+2013,15,6,Oklahoma State
+2013,15,7,Stanford
+2013,15,8,South Carolina
+2013,15,9,Baylor
+2013,15,10,Michigan State
+2013,15,11,Arizona State
+2013,15,12,Oregon
+2013,15,13,Clemson
+2013,15,14,LSU
+2013,15,15,UCF
+2013,15,16,Northern Illinois
+2013,15,17,UCLA
+2013,15,18,Oklahoma
+2013,15,19,Louisville
+2013,15,20,Duke
+2013,15,21,Wisconsin
+2013,15,22,Texas A&M;
+2013,15,23,Texas
+2013,15,24,Fresno State
+2013,15,25,Georgia
+2013,16,1,Florida State
+2013,16,2,Auburn
+2013,16,3,Alabama
+2013,16,4,Michigan State
+2013,16,5,Stanford
+2013,16,6,Baylor
+2013,16,7,Ohio State
+2013,16,8,South Carolina
+2013,16,9,Missouri
+2013,16,10,Oregon
+2013,16,11,Oklahoma
+2013,16,12,Clemson
+2013,16,13,Oklahoma State
+2013,16,14,LSU
+2013,16,15,UCF
+2013,16,16,Arizona State
+2013,16,17,UCLA
+2013,16,18,Louisville
+2013,16,19,Wisconsin
+2013,16,20,Texas A&M;
+2013,16,21,Fresno State
+2013,16,22,Duke
+2013,16,23,Georgia
+2013,16,24,Northern Illinois
+2013,16,25,Notre Dame
+2013,17,1,Florida State
+2013,17,2,Auburn
+2013,17,3,Michigan State
+2013,17,4,South Carolina
+2013,17,5,Missouri
+2013,17,6,Oklahoma
+2013,17,7,Alabama
+2013,17,8,Clemson
+2013,17,9,Oregon
+2013,17,10,UCF
+2013,17,11,Stanford
+2013,17,12,Ohio State
+2013,17,13,Baylor
+2013,17,14,LSU
+2013,17,15,Louisville
+2013,17,16,UCLA
+2013,17,17,Oklahoma State
+2013,17,18,Texas A&M;
+2013,17,19,USC
+2013,17,20,Notre Dame
+2013,17,21,Arizona State
+2013,17,22,Wisconsin
+2013,17,23,Duke
+2013,17,24,Vanderbilt
+2013,17,25,Washington
+2014,1,1,Florida State
+2014,1,2,Alabama
+2014,1,3,Oregon
+2014,1,4,Oklahoma
+2014,1,5,Ohio State
+2014,1,6,Auburn
+2014,1,7,UCLA
+2014,1,8,Michigan State
+2014,1,9,South Carolina
+2014,1,10,Baylor
+2014,1,11,Stanford
+2014,1,12,Georgia
+2014,1,13,LSU
+2014,1,14,Wisconsin
+2014,1,15,USC
+2014,1,16,Clemson
+2014,1,17,Notre Dame
+2014,1,18,Ole Miss
+2014,1,19,Arizona State
+2014,1,20,Kansas State
+2014,1,21,Texas A&M;
+2014,1,22,Nebraska
+2014,1,23,North Carolina
+2014,1,24,Missouri
+2014,1,25,Washington
+2014,2,1,Florida State
+2014,2,2,Alabama
+2014,2,3,Oregon
+2014,2,4,Oklahoma
+2014,2,5,Auburn
+2014,2,6,Georgia
+2014,2,7,Michigan State
+2014,2,8,Ohio State
+2014,2,9,Texas A&M;
+2014,2,10,Baylor
+2014,2,11,UCLA
+2014,2,12,LSU
+2014,2,13,Stanford
+2014,2,14,USC
+2014,2,15,Ole Miss
+2014,2,16,Notre Dame
+2014,2,17,Arizona State
+2014,2,18,Wisconsin
+2014,2,19,Nebraska
+2014,2,20,Kansas State
+2014,2,21,South Carolina
+2014,2,,North Carolina
+2014,2,23,Clemson
+2014,2,24,Missouri
+2014,2,25,Louisville
+2014,3,1,Florida State
+2014,3,2,Oregon
+2014,3,3,Alabama
+2014,3,4,Oklahoma
+2014,3,5,Auburn
+2014,3,6,Georgia
+2014,3,7,Texas A&M;
+2014,3,8,Baylor
+2014,3,9,USC
+2014,3,10,LSU
+2014,3,11,Notre Dame
+2014,3,12,UCLA
+2014,3,13,Michigan State
+2014,3,14,Ole Miss
+2014,3,15,Stanford
+2014,3,16,Arizona State
+2014,3,17,Virginia Tech
+2014,3,18,Wisconsin
+2014,3,19,Kansas State
+2014,3,20,Missouri
+2014,3,21,Louisville
+2014,3,22,Ohio State
+2014,3,23,Clemson
+2014,3,24,South Carolina
+2014,3,25,BYU
+2014,4,1,Florida State
+2014,4,2,Oregon
+2014,4,3,Alabama
+2014,4,4,Oklahoma
+2014,4,5,Auburn
+2014,4,6,Texas A&M;
+2014,4,7,Baylor
+2014,4,8,LSU
+2014,4,9,Notre Dame
+2014,4,10,Ole Miss
+2014,4,11,Michigan State
+2014,4,12,UCLA
+2014,4,13,Georgia
+2014,4,14,South Carolina
+2014,4,15,Arizona State
+2014,4,16,Stanford
+2014,4,17,USC
+2014,4,18,Missouri
+2014,4,19,Wisconsin
+2014,4,20,Kansas State
+2014,4,21,BYU
+2014,4,22,Clemson
+2014,4,23,Ohio State
+2014,4,24,Nebraska
+2014,4,25,Oklahoma State
+2014,5,1,Florida State
+2014,5,2,Oregon
+2014,5,3,Alabama
+2014,5,4,Oklahoma
+2014,5,5,Auburn
+2014,5,6,Texas A&M;
+2014,5,7,Baylor
+2014,5,8,Notre Dame
+2014,5,9,Michigan State
+2014,5,10,Ole Miss
+2014,5,11,UCLA
+2014,5,12,Georgia
+2014,5,13,South Carolina
+2014,5,14,Mississippi State
+2014,5,15,Arizona State
+2014,5,16,Stanford
+2014,5,17,LSU
+2014,5,18,USC
+2014,5,19,Wisconsin
+2014,5,20,BYU
+2014,5,21,Nebraska
+2014,5,22,Ohio State
+2014,5,23,East Carolina
+2014,5,24,Oklahoma State
+2014,5,25,Kansas State
+2014,6,1,Florida State
+2014,6,2,Oregon
+2014,6,3,Alabama
+2014,6,4,Oklahoma
+2014,6,5,Auburn
+2014,6,6,Texas A&M;
+2014,6,7,Baylor
+2014,6,8,UCLA
+2014,6,9,Notre Dame
+2014,6,10,Michigan State
+2014,6,11,Ole Miss
+2014,6,12,Mississippi State
+2014,6,13,Georgia
+2014,6,14,Stanford
+2014,6,15,LSU
+2014,6,16,USC
+2014,6,17,Wisconsin
+2014,6,18,BYU
+2014,6,19,Nebraska
+2014,6,20,Ohio State
+2014,6,21,Oklahoma State
+2014,6,22,East Carolina
+2014,6,23,Kansas State
+2014,6,24,Missouri
+2014,6,25,TCU
+2014,7,1,Florida State
+2014,7,2,Auburn
+2014,7,3,Mississippi State
+2014,7,,Ole Miss
+2014,7,5,Baylor
+2014,7,6,Notre Dame
+2014,7,7,Alabama
+2014,7,8,Michigan State
+2014,7,9,TCU
+2014,7,10,Arizona
+2014,7,11,Oklahoma
+2014,7,12,Oregon
+2014,7,13,Georgia
+2014,7,14,Texas A&M;
+2014,7,15,Ohio State
+2014,7,16,Oklahoma State
+2014,7,17,Kansas State
+2014,7,18,UCLA
+2014,7,19,East Carolina
+2014,7,20,Arizona State
+2014,7,21,Nebraska
+2014,7,22,Georgia Tech
+2014,7,23,Missouri
+2014,7,24,Utah
+2014,7,25,Stanford
+2014,8,1,Mississippi State
+2014,8,2,Florida State
+2014,8,3,Ole Miss
+2014,8,4,Baylor
+2014,8,5,Notre Dame
+2014,8,6,Auburn
+2014,8,7,Alabama
+2014,8,8,Michigan State
+2014,8,9,Oregon
+2014,8,10,Georgia
+2014,8,11,Oklahoma
+2014,8,12,TCU
+2014,8,13,Ohio State
+2014,8,14,Kansas State
+2014,8,15,Oklahoma State
+2014,8,16,Arizona
+2014,8,17,Arizona State
+2014,8,18,East Carolina
+2014,8,19,Nebraska
+2014,8,20,Utah
+2014,8,21,Texas A&M;
+2014,8,22,USC
+2014,8,23,Stanford
+2014,8,24,Clemson
+2014,8,25,Marshall
+2014,9,1,Mississippi State
+2014,9,2,Florida State
+2014,9,3,Ole Miss
+2014,9,4,Alabama
+2014,9,5,Auburn
+2014,9,6,Oregon
+2014,9,7,Notre Dame
+2014,9,8,Michigan State
+2014,9,9,Georgia
+2014,9,10,TCU
+2014,9,11,Kansas State
+2014,9,12,Baylor
+2014,9,13,Ohio State
+2014,9,14,Arizona State
+2014,9,15,Arizona
+2014,9,16,Nebraska
+2014,9,17,Oklahoma
+2014,9,18,East Carolina
+2014,9,19,Utah
+2014,9,20,USC
+2014,9,21,Clemson
+2014,9,22,West Virginia
+2014,9,23,Marshall
+2014,9,24,LSU
+2014,9,25,UCLA
+2014,10,1,Mississippi State
+2014,10,2,Florida State
+2014,10,3,Alabama
+2014,10,4,Auburn
+2014,10,5,Oregon
+2014,10,6,Notre Dame
+2014,10,7,Ole Miss
+2014,10,8,Michigan State
+2014,10,9,Georgia
+2014,10,10,TCU
+2014,10,11,Kansas State
+2014,10,12,Baylor
+2014,10,13,Ohio State
+2014,10,14,Arizona
+2014,10,15,Arizona State
+2014,10,16,LSU
+2014,10,17,Nebraska
+2014,10,18,Utah
+2014,10,19,Oklahoma
+2014,10,20,West Virginia
+2014,10,21,East Carolina
+2014,10,22,Clemson
+2014,10,23,Marshall
+2014,10,24,Duke
+2014,10,25,UCLA
+2014,11,1,Mississippi State
+2014,11,2,Florida State
+2014,11,3,Auburn
+2014,11,4,Alabama
+2014,11,5,Oregon
+2014,11,6,TCU
+2014,11,7,Michigan State
+2014,11,8,Notre Dame
+2014,11,9,Kansas State
+2014,11,10,Baylor
+2014,11,11,Arizona State
+2014,11,12,Ole Miss
+2014,11,13,Ohio State
+2014,11,14,LSU
+2014,11,15,Nebraska
+2014,11,16,Oklahoma
+2014,11,17,Georgia
+2014,11,18,UCLA
+2014,11,19,Clemson
+2014,11,20,Utah
+2014,11,21,Arizona
+2014,11,22,Duke
+2014,11,23,Marshall
+2014,11,24,West Virginia
+2014,11,25,Wisconsin
+2014,12,1,Mississippi State
+2014,12,2,Florida State
+2014,12,3,Oregon
+2014,12,4,Alabama
+2014,12,5,TCU
+2014,12,6,Baylor
+2014,12,7,Arizona State
+2014,12,8,Ohio State
+2014,12,9,Auburn
+2014,12,10,Ole Miss
+2014,12,11,Nebraska
+2014,12,12,Michigan State
+2014,12,13,Kansas State
+2014,12,14,UCLA
+2014,12,15,Notre Dame
+2014,12,16,Georgia
+2014,12,17,Arizona
+2014,12,18,Clemson
+2014,12,19,Duke
+2014,12,20,LSU
+2014,12,21,Marshall
+2014,12,22,Wisconsin
+2014,12,23,Colorado State
+2014,12,24,Georgia Tech
+2014,12,25,Utah
+2014,13,1,Florida State
+2014,13,2,Alabama
+2014,13,3,Oregon
+2014,13,4,Mississippi State
+2014,13,5,TCU
+2014,13,6,Baylor
+2014,13,7,Ohio State
+2014,13,8,Ole Miss
+2014,13,9,Georgia
+2014,13,10,Michigan State
+2014,13,11,UCLA
+2014,13,12,Kansas State
+2014,13,13,Arizona State
+2014,13,14,Wisconsin
+2014,13,15,Arizona
+2014,13,16,Auburn
+2014,13,17,Georgia Tech
+2014,13,18,Marshall
+2014,13,19,Missouri
+2014,13,20,Utah
+2014,13,21,Nebraska
+2014,13,22,Colorado State
+2014,13,23,Oklahoma
+2014,13,24,USC
+2014,13,25,Duke
+2014,14,1,Florida State
+2014,14,2,Alabama
+2014,14,3,Oregon
+2014,14,4,Mississippi State
+2014,14,5,Baylor
+2014,14,6,TCU
+2014,14,7,Ohio State
+2014,14,8,Georgia
+2014,14,9,UCLA
+2014,14,10,Michigan State
+2014,14,11,Kansas State
+2014,14,12,Arizona
+2014,14,13,Arizona State
+2014,14,14,Wisconsin
+2014,14,15,Auburn
+2014,14,16,Georgia Tech
+2014,14,17,Missouri
+2014,14,18,Ole Miss
+2014,14,19,Marshall
+2014,14,20,Oklahoma
+2014,14,21,Colorado State
+2014,14,22,Minnesota
+2014,14,23,Clemson
+2014,14,24,Louisville
+2014,14,25,Boise State
+2014,15,1,Alabama
+2014,15,2,Florida State
+2014,15,3,Oregon
+2014,15,4,TCU
+2014,15,5,Baylor
+2014,15,6,Ohio State
+2014,15,7,Michigan State
+2014,15,8,Arizona
+2014,15,9,Kansas State
+2014,15,10,Mississippi State
+2014,15,11,Wisconsin
+2014,15,12,Georgia Tech
+2014,15,13,Ole Miss
+2014,15,14,Missouri
+2014,15,15,Georgia
+2014,15,16,UCLA
+2014,15,17,Arizona State
+2014,15,18,Oklahoma
+2014,15,19,Clemson
+2014,15,20,Auburn
+2014,15,21,Louisville
+2014,15,22,Boise State
+2014,15,23,LSU
+2014,15,24,Utah
+2014,15,25,Nebraska
+2014,16,1,Alabama
+2014,16,2,Florida State
+2014,16,3,Oregon
+2014,16,4,Baylor
+2014,16,5,Ohio State
+2014,16,6,TCU
+2014,16,7,Michigan State
+2014,16,8,Mississippi State
+2014,16,9,Ole Miss
+2014,16,10,Georgia Tech
+2014,16,11,Kansas State
+2014,16,12,Arizona
+2014,16,13,Georgia
+2014,16,14,UCLA
+2014,16,15,Arizona State
+2014,16,16,Missouri
+2014,16,17,Wisconsin
+2014,16,18,Clemson
+2014,16,19,Auburn
+2014,16,20,Louisville
+2014,16,21,Boise State
+2014,16,22,LSU
+2014,16,23,Utah
+2014,16,24,USC
+2014,16,25,Nebraska
+2014,17,1,Ohio State
+2014,17,2,Oregon
+2014,17,3,TCU
+2014,17,4,Alabama
+2014,17,5,Michigan State
+2014,17,,Florida State
+2014,17,7,Baylor
+2014,17,8,Georgia Tech
+2014,17,9,Georgia
+2014,17,10,UCLA
+2014,17,11,Mississippi State
+2014,17,12,Arizona State
+2014,17,13,Wisconsin
+2014,17,14,Missouri
+2014,17,15,Clemson
+2014,17,16,Boise State
+2014,17,17,Ole Miss
+2014,17,18,Kansas State
+2014,17,19,Arizona
+2014,17,20,USC
+2014,17,21,Utah
+2014,17,22,Auburn
+2014,17,23,Marshall
+2014,17,24,Louisville
+2014,17,25,Memphis
+2015,1,1,Ohio State
+2015,1,2,TCU
+2015,1,3,Alabama
+2015,1,4,Baylor
+2015,1,5,Michigan State
+2015,1,6,Auburn
+2015,1,7,Oregon
+2015,1,8,USC
+2015,1,9,Georgia
+2015,1,10,Florida State
+2015,1,11,Notre Dame
+2015,1,12,Clemson
+2015,1,13,UCLA
+2015,1,14,LSU
+2015,1,15,Arizona State
+2015,1,16,Georgia Tech
+2015,1,17,Ole Miss
+2015,1,18,Arkansas
+2015,1,19,Oklahoma
+2015,1,20,Wisconsin
+2015,1,21,Stanford
+2015,1,22,Arizona
+2015,1,23,Boise State
+2015,1,24,Missouri
+2015,1,25,Tennessee
+2015,2,1,Ohio State
+2015,2,2,Alabama
+2015,2,3,TCU
+2015,2,4,Baylor
+2015,2,5,Michigan State
+2015,2,6,Auburn
+2015,2,7,Oregon
+2015,2,8,USC
+2015,2,9,Notre Dame
+2015,2,10,Georgia
+2015,2,11,Florida State
+2015,2,12,Clemson
+2015,2,13,UCLA
+2015,2,14,LSU
+2015,2,15,Georgia Tech
+2015,2,16,Texas A&M;
+2015,2,17,Ole Miss
+2015,2,18,Arkansas
+2015,2,19,Oklahoma
+2015,2,20,Boise State
+2015,2,21,Missouri
+2015,2,22,Arizona
+2015,2,23,Tennessee
+2015,2,24,Utah
+2015,2,25,Mississippi State
+2015,3,1,Ohio State
+2015,3,2,Alabama
+2015,3,3,TCU
+2015,3,4,Michigan State
+2015,3,5,Baylor
+2015,3,6,USC
+2015,3,7,Georgia
+2015,3,8,Notre Dame
+2015,3,9,Florida State
+2015,3,10,UCLA
+2015,3,11,Clemson
+2015,3,12,Oregon
+2015,3,13,LSU
+2015,3,14,Georgia Tech
+2015,3,15,Ole Miss
+2015,3,16,Oklahoma
+2015,3,17,Texas A&M;
+2015,3,18,Auburn
+2015,3,19,BYU
+2015,3,20,Arizona
+2015,3,21,Utah
+2015,3,22,Missouri
+2015,3,23,Northwestern
+2015,3,24,Wisconsin
+2015,3,25,Oklahoma State
+2015,4,1,Ohio State
+2015,4,2,Michigan State
+2015,4,3,Ole Miss
+2015,4,,TCU
+2015,4,5,Baylor
+2015,4,6,Notre Dame
+2015,4,7,Georgia
+2015,4,8,LSU
+2015,4,9,UCLA
+2015,4,10,Florida State
+2015,4,11,Clemson
+2015,4,12,Alabama
+2015,4,13,Oregon
+2015,4,14,Texas A&M;
+2015,4,15,Oklahoma
+2015,4,16,Arizona
+2015,4,17,Northwestern
+2015,4,18,Utah
+2015,4,19,USC
+2015,4,20,Georgia Tech
+2015,4,21,Stanford
+2015,4,22,Wisconsin
+2015,4,,BYU
+2015,4,24,Oklahoma State
+2015,4,25,Missouri
+2015,5,1,Ohio State
+2015,5,2,Michigan State
+2015,5,3,Ole Miss
+2015,5,4,TCU
+2015,5,5,Baylor
+2015,5,6,Notre Dame
+2015,5,7,UCLA
+2015,5,8,Georgia
+2015,5,9,LSU
+2015,5,10,Utah
+2015,5,11,Florida State
+2015,5,12,Clemson
+2015,5,13,Alabama
+2015,5,14,Texas A&M;
+2015,5,15,Oklahoma
+2015,5,16,Northwestern
+2015,5,17,USC
+2015,5,18,Stanford
+2015,5,19,Wisconsin
+2015,5,20,Oklahoma State
+2015,5,21,Mississippi State
+2015,5,22,Michigan
+2015,5,23,West Virginia
+2015,5,24,California
+2015,5,25,Florida
+2015,6,1,Ohio State
+2015,6,2,TCU
+2015,6,3,Baylor
+2015,6,4,Michigan State
+2015,6,5,Utah
+2015,6,6,Clemson
+2015,6,7,LSU
+2015,6,8,Alabama
+2015,6,9,Texas A&M;
+2015,6,10,Oklahoma
+2015,6,11,Florida
+2015,6,12,Florida State
+2015,6,13,Northwestern
+2015,6,14,Ole Miss
+2015,6,15,Notre Dame
+2015,6,16,Stanford
+2015,6,17,USC
+2015,6,18,Michigan
+2015,6,19,Georgia
+2015,6,20,UCLA
+2015,6,21,Oklahoma State
+2015,6,22,Iowa
+2015,6,23,California
+2015,6,24,Toledo
+2015,6,25,Boise State
+2015,7,1,Ohio State
+2015,7,2,Baylor
+2015,7,3,TCU
+2015,7,4,Utah
+2015,7,5,Clemson
+2015,7,6,LSU
+2015,7,7,Michigan State
+2015,7,8,Florida
+2015,7,9,Texas A&M;
+2015,7,10,Alabama
+2015,7,11,Florida State
+2015,7,12,Michigan
+2015,7,13,Ole Miss
+2015,7,14,Notre Dame
+2015,7,15,Stanford
+2015,7,16,Oklahoma State
+2015,7,17,Iowa
+2015,7,18,UCLA
+2015,7,19,Oklahoma
+2015,7,20,Northwestern
+2015,7,21,Boise State
+2015,7,22,Toledo
+2015,7,23,California
+2015,7,24,Houston
+2015,7,25,Duke
+2015,8,1,Ohio State
+2015,8,2,Baylor
+2015,8,3,Utah
+2015,8,4,TCU
+2015,8,5,LSU
+2015,8,6,Clemson
+2015,8,7,Michigan State
+2015,8,8,Alabama
+2015,8,9,Florida State
+2015,8,10,Stanford
+2015,8,11,Notre Dame
+2015,8,12,Iowa
+2015,8,13,Florida
+2015,8,14,Oklahoma State
+2015,8,15,Michigan
+2015,8,,Texas A&M;
+2015,8,17,Oklahoma
+2015,8,18,Memphis
+2015,8,19,Toledo
+2015,8,20,California
+2015,8,21,Houston
+2015,8,22,Temple
+2015,8,23,Duke
+2015,8,24,Ole Miss
+2015,8,25,Pittsburgh
+2015,9,1,Ohio State
+2015,9,2,Baylor
+2015,9,3,Clemson
+2015,9,4,LSU
+2015,9,5,TCU
+2015,9,6,Michigan State
+2015,9,7,Alabama
+2015,9,8,Stanford
+2015,9,9,Notre Dame
+2015,9,10,Iowa
+2015,9,11,Florida
+2015,9,12,Oklahoma State
+2015,9,13,Utah
+2015,9,14,Oklahoma
+2015,9,15,Michigan
+2015,9,16,Memphis
+2015,9,17,Florida State
+2015,9,18,Houston
+2015,9,19,Ole Miss
+2015,9,20,Toledo
+2015,9,21,Temple
+2015,9,22,Duke
+2015,9,23,Pittsburgh
+2015,9,24,UCLA
+2015,9,25,Mississippi State
+2015,10,1,Ohio State
+2015,10,2,Baylor
+2015,10,3,Clemson
+2015,10,4,LSU
+2015,10,5,TCU
+2015,10,6,Michigan State
+2015,10,7,Alabama
+2015,10,8,Notre Dame
+2015,10,9,Stanford
+2015,10,10,Iowa
+2015,10,11,Florida
+2015,10,12,Oklahoma State
+2015,10,13,Utah
+2015,10,14,Oklahoma
+2015,10,15,Memphis
+2015,10,16,Michigan
+2015,10,17,Florida State
+2015,10,18,Houston
+2015,10,19,Ole Miss
+2015,10,20,Toledo
+2015,10,21,North Carolina
+2015,10,22,UCLA
+2015,10,23,Temple
+2015,10,24,Mississippi State
+2015,10,25,Texas A&M;
+2015,11,1,Clemson
+2015,11,2,Ohio State
+2015,11,3,Alabama
+2015,11,4,Baylor
+2015,11,5,Oklahoma State
+2015,11,6,Notre Dame
+2015,11,7,Stanford
+2015,11,8,Iowa
+2015,11,9,LSU
+2015,11,10,Utah
+2015,11,11,Florida
+2015,11,12,Oklahoma
+2015,11,13,TCU
+2015,11,14,Michigan State
+2015,11,15,Michigan
+2015,11,16,Houston
+2015,11,17,North Carolina
+2015,11,18,UCLA
+2015,11,19,Florida State
+2015,11,20,Mississippi State
+2015,11,21,Temple
+2015,11,22,Navy
+2015,11,23,Wisconsin
+2015,11,24,Northwestern
+2015,11,25,Memphis
+2015,12,1,Clemson
+2015,12,2,Ohio State
+2015,12,3,Alabama
+2015,12,4,Oklahoma State
+2015,12,5,Notre Dame
+2015,12,6,Iowa
+2015,12,7,Oklahoma
+2015,12,8,Florida
+2015,12,9,Michigan State
+2015,12,10,Baylor
+2015,12,11,TCU
+2015,12,12,North Carolina
+2015,12,13,Houston
+2015,12,14,Michigan
+2015,12,15,Stanford
+2015,12,16,Florida State
+2015,12,17,LSU
+2015,12,18,Utah
+2015,12,19,Navy
+2015,12,20,Northwestern
+2015,12,21,Wisconsin
+2015,12,22,USC
+2015,12,23,Oregon
+2015,12,24,Washington State
+2015,12,25,Ole Miss
+2015,13,1,Clemson
+2015,13,2,Alabama
+2015,13,3,Iowa
+2015,13,4,Notre Dame
+2015,13,5,Oklahoma
+2015,13,6,Michigan State
+2015,13,7,Baylor
+2015,13,8,Ohio State
+2015,13,9,Oklahoma State
+2015,13,10,Florida
+2015,13,11,North Carolina
+2015,13,12,Michigan
+2015,13,13,Stanford
+2015,13,14,Florida State
+2015,13,15,TCU
+2015,13,16,Navy
+2015,13,17,Northwestern
+2015,13,18,Oregon
+2015,13,19,Ole Miss
+2015,13,20,Washington State
+2015,13,21,Houston
+2015,13,22,UCLA
+2015,13,23,Mississippi State
+2015,13,24,Toledo
+2015,13,25,Temple
+2015,14,1,Clemson
+2015,14,2,Alabama
+2015,14,3,Oklahoma
+2015,14,4,Iowa
+2015,14,5,Michigan State
+2015,14,6,Ohio State
+2015,14,7,Stanford
+2015,14,8,North Carolina
+2015,14,9,Notre Dame
+2015,14,10,Florida State
+2015,14,11,TCU
+2015,14,12,Baylor
+2015,14,13,Northwestern
+2015,14,14,Oklahoma State
+2015,14,15,Oregon
+2015,14,16,Ole Miss
+2015,14,17,Houston
+2015,14,18,Florida
+2015,14,19,Michigan
+2015,14,20,Temple
+2015,14,21,Utah
+2015,14,22,Navy
+2015,14,23,LSU
+2015,14,24,USC
+2015,14,25,Wisconsin
+2015,15,1,Clemson
+2015,15,2,Alabama
+2015,15,3,Michigan State
+2015,15,4,Oklahoma
+2015,15,5,Stanford
+2015,15,6,Iowa
+2015,15,7,Ohio State
+2015,15,8,Notre Dame
+2015,15,9,Florida State
+2015,15,10,North Carolina
+2015,15,11,TCU
+2015,15,12,Northwestern
+2015,15,13,Oklahoma State
+2015,15,14,Houston
+2015,15,15,Oregon
+2015,15,16,Ole Miss
+2015,15,17,Michigan
+2015,15,18,Baylor
+2015,15,19,Florida
+2015,15,20,Utah
+2015,15,21,Navy
+2015,15,22,LSU
+2015,15,23,Wisconsin
+2015,15,24,Temple
+2015,15,25,Western Kentucky
+2015,16,1,Alabama
+2015,16,2,Clemson
+2015,16,3,Stanford
+2015,16,4,Ohio State
+2015,16,5,Oklahoma
+2015,16,6,Michigan State
+2015,16,7,TCU
+2015,16,8,Houston
+2015,16,9,Iowa
+2015,16,10,Ole Miss
+2015,16,11,Notre Dame
+2015,16,12,Michigan
+2015,16,13,Baylor
+2015,16,14,Florida State
+2015,16,15,North Carolina
+2015,16,16,LSU
+2015,16,17,Utah
+2015,16,18,Navy
+2015,16,19,Oregon
+2015,16,20,Oklahoma State
+2015,16,21,Wisconsin
+2015,16,22,Tennessee
+2015,16,23,Northwestern
+2015,16,24,Western Kentucky
+2015,16,25,Florida
+2016,1,1,Alabama
+2016,1,2,Clemson
+2016,1,3,Oklahoma
+2016,1,4,Florida State
+2016,1,5,LSU
+2016,1,6,Ohio State
+2016,1,7,Michigan
+2016,1,8,Stanford
+2016,1,9,Tennessee
+2016,1,10,Notre Dame
+2016,1,11,Ole Miss
+2016,1,12,Michigan State
+2016,1,13,TCU
+2016,1,14,Washington
+2016,1,15,Houston
+2016,1,16,UCLA
+2016,1,17,Iowa
+2016,1,18,Georgia
+2016,1,19,Louisville
+2016,1,20,USC
+2016,1,21,Oklahoma State
+2016,1,22,North Carolina
+2016,1,23,Baylor
+2016,1,24,Oregon
+2016,1,25,Florida
+2016,2,1,Alabama
+2016,2,2,Clemson
+2016,2,3,Florida State
+2016,2,4,Ohio State
+2016,2,5,Michigan
+2016,2,6,Houston
+2016,2,7,Stanford
+2016,2,8,Washington
+2016,2,9,Georgia
+2016,2,10,Wisconsin
+2016,2,11,Texas
+2016,2,12,Michigan State
+2016,2,13,Louisville
+2016,2,14,Oklahoma
+2016,2,15,TCU
+2016,2,16,Iowa
+2016,2,17,Tennessee
+2016,2,18,Notre Dame
+2016,2,19,Ole Miss
+2016,2,20,Texas A&M;
+2016,2,21,LSU
+2016,2,22,Oklahoma State
+2016,2,23,Baylor
+2016,2,24,Oregon
+2016,2,25,Miami
+2016,3,1,Alabama
+2016,3,2,Florida State
+2016,3,3,Ohio State
+2016,3,4,Michigan
+2016,3,5,Clemson
+2016,3,6,Houston
+2016,3,7,Stanford
+2016,3,8,Washington
+2016,3,9,Wisconsin
+2016,3,10,Louisville
+2016,3,11,Texas
+2016,3,12,Michigan State
+2016,3,13,Iowa
+2016,3,14,Oklahoma
+2016,3,15,Tennessee
+2016,3,16,Georgia
+2016,3,17,Texas A&M;
+2016,3,18,Notre Dame
+2016,3,19,Ole Miss
+2016,3,20,LSU
+2016,3,21,Baylor
+2016,3,22,Oregon
+2016,3,23,Florida
+2016,3,24,Arkansas
+2016,3,25,Miami
+2016,4,1,Alabama
+2016,4,2,Ohio State
+2016,4,3,Louisville
+2016,4,4,Michigan
+2016,4,5,Clemson
+2016,4,6,Houston
+2016,4,7,Stanford
+2016,4,8,Michigan State
+2016,4,9,Washington
+2016,4,10,Texas A&M;
+2016,4,11,Wisconsin
+2016,4,12,Georgia
+2016,4,13,Florida State
+2016,4,14,Tennessee
+2016,4,15,Miami
+2016,4,16,Baylor
+2016,4,17,Arkansas
+2016,4,18,LSU
+2016,4,19,Florida
+2016,4,20,Nebraska
+2016,4,21,Texas
+2016,4,22,San Diego State
+2016,4,23,Ole Miss
+2016,4,24,Utah
+2016,4,25,Oklahoma
+2016,5,1,Alabama
+2016,5,2,Ohio State
+2016,5,3,Louisville
+2016,5,4,Michigan
+2016,5,5,Clemson
+2016,5,6,Houston
+2016,5,7,Stanford
+2016,5,8,Wisconsin
+2016,5,9,Texas A&M;
+2016,5,10,Washington
+2016,5,11,Tennessee
+2016,5,12,Florida State
+2016,5,13,Baylor
+2016,5,14,Miami
+2016,5,15,Nebraska
+2016,5,16,Ole Miss
+2016,5,17,Michigan State
+2016,5,18,Utah
+2016,5,19,San Diego State
+2016,5,20,Arkansas
+2016,5,21,TCU
+2016,5,22,Texas
+2016,5,23,Florida
+2016,5,24,Boise State
+2016,5,25,Georgia
+2016,6,1,Alabama
+2016,6,2,Ohio State
+2016,6,3,Clemson
+2016,6,4,Michigan
+2016,6,5,Washington
+2016,6,6,Houston
+2016,6,7,Louisville
+2016,6,8,Texas A&M;
+2016,6,9,Tennessee
+2016,6,10,Miami
+2016,6,11,Wisconsin
+2016,6,12,Nebraska
+2016,6,13,Baylor
+2016,6,14,Ole Miss
+2016,6,15,Stanford
+2016,6,16,Arkansas
+2016,6,17,North Carolina
+2016,6,18,Florida
+2016,6,19,Boise State
+2016,6,20,Oklahoma
+2016,6,21,Colorado
+2016,6,22,West Virginia
+2016,6,23,Florida State
+2016,6,24,Utah
+2016,6,25,Virginia Tech
+2016,7,1,Alabama
+2016,7,2,Ohio State
+2016,7,3,Clemson
+2016,7,4,Michigan
+2016,7,5,Washington
+2016,7,6,Texas A&M;
+2016,7,7,Louisville
+2016,7,8,Wisconsin
+2016,7,9,Tennessee
+2016,7,10,Nebraska
+2016,7,11,Baylor
+2016,7,12,Ole Miss
+2016,7,13,Houston
+2016,7,14,Florida State
+2016,7,15,Boise State
+2016,7,16,Miami
+2016,7,17,Virginia Tech
+2016,7,18,Florida
+2016,7,19,Oklahoma
+2016,7,20,West Virginia
+2016,7,21,Utah
+2016,7,22,Arkansas
+2016,7,23,Auburn
+2016,7,24,Western Michigan
+2016,7,25,Navy
+2016,8,1,Alabama
+2016,8,2,Ohio State
+2016,8,3,Michigan
+2016,8,4,Clemson
+2016,8,5,Washington
+2016,8,6,Texas A&M;
+2016,8,7,Louisville
+2016,8,8,Nebraska
+2016,8,9,Baylor
+2016,8,10,Wisconsin
+2016,8,11,Houston
+2016,8,12,West Virginia
+2016,8,13,Florida State
+2016,8,14,Boise State
+2016,8,15,Florida
+2016,8,16,Oklahoma
+2016,8,17,Arkansas
+2016,8,18,Tennessee
+2016,8,19,Utah
+2016,8,20,Western Michigan
+2016,8,21,Auburn
+2016,8,22,North Carolina
+2016,8,23,Ole Miss
+2016,8,24,Navy
+2016,8,25,LSU
+2016,9,1,Alabama
+2016,9,2,Michigan
+2016,9,3,Clemson
+2016,9,4,Washington
+2016,9,5,Louisville
+2016,9,6,Ohio State
+2016,9,7,Nebraska
+2016,9,8,Baylor
+2016,9,9,Texas A&M;
+2016,9,10,West Virginia
+2016,9,11,Wisconsin
+2016,9,12,Florida State
+2016,9,13,Boise State
+2016,9,14,Florida
+2016,9,15,Auburn
+2016,9,16,Oklahoma
+2016,9,17,Utah
+2016,9,18,Tennessee
+2016,9,19,LSU
+2016,9,20,Western Michigan
+2016,9,21,North Carolina
+2016,9,22,Navy
+2016,9,23,Colorado
+2016,9,24,Penn State
+2016,9,25,Virginia Tech
+2016,10,1,Alabama
+2016,10,2,Michigan
+2016,10,3,Clemson
+2016,10,4,Washington
+2016,10,5,Louisville
+2016,10,6,Ohio State
+2016,10,7,Texas A&M;
+2016,10,8,Wisconsin
+2016,10,9,Nebraska
+2016,10,10,Florida
+2016,10,11,Auburn
+2016,10,12,Oklahoma
+2016,10,13,Baylor
+2016,10,14,West Virginia
+2016,10,15,LSU
+2016,10,16,Utah
+2016,10,17,Western Michigan
+2016,10,18,North Carolina
+2016,10,19,Florida State
+2016,10,20,Penn State
+2016,10,21,Colorado
+2016,10,22,Oklahoma State
+2016,10,23,Virginia Tech
+2016,10,24,Boise State
+2016,10,25,Washington State
+2016,11,1,Alabama
+2016,11,2,Michigan
+2016,11,3,Clemson
+2016,11,4,Washington
+2016,11,5,Louisville
+2016,11,6,Ohio State
+2016,11,7,Wisconsin
+2016,11,8,Auburn
+2016,11,9,Oklahoma
+2016,11,10,Texas A&M;
+2016,11,11,West Virginia
+2016,11,12,Penn State
+2016,11,13,Utah
+2016,11,14,Western Michigan
+2016,11,15,North Carolina
+2016,11,16,Colorado
+2016,11,17,Oklahoma State
+2016,11,18,Virginia Tech
+2016,11,19,LSU
+2016,11,20,Florida State
+2016,11,21,Nebraska
+2016,11,22,Florida
+2016,11,23,Washington State
+2016,11,24,Boise State
+2016,11,25,Baylor
+2016,12,1,Alabama
+2016,12,2,Ohio State
+2016,12,3,Louisville
+2016,12,4,Michigan
+2016,12,5,Clemson
+2016,12,6,Wisconsin
+2016,12,7,Washington
+2016,12,8,Oklahoma
+2016,12,9,Penn State
+2016,12,10,West Virginia
+2016,12,11,Utah
+2016,12,12,Colorado
+2016,12,13,Oklahoma State
+2016,12,14,Western Michigan
+2016,12,15,USC
+2016,12,16,LSU
+2016,12,17,Florida State
+2016,12,18,Auburn
+2016,12,19,Nebraska
+2016,12,20,Washington State
+2016,12,21,Florida
+2016,12,22,Boise State
+2016,12,23,Texas A&M;
+2016,12,24,San Diego State
+2016,12,25,Troy
+2016,13,1,Alabama
+2016,13,2,Ohio State
+2016,13,3,Michigan
+2016,13,4,Clemson
+2016,13,5,Wisconsin
+2016,13,6,Washington
+2016,13,7,Oklahoma
+2016,13,8,Penn State
+2016,13,9,Colorado
+2016,13,10,Oklahoma State
+2016,13,11,Louisville
+2016,13,12,USC
+2016,13,13,Florida
+2016,13,14,Western Michigan
+2016,13,15,Florida State
+2016,13,16,Auburn
+2016,13,17,Nebraska
+2016,13,18,Houston
+2016,13,19,West Virginia
+2016,13,20,Boise State
+2016,13,21,Utah
+2016,13,22,Texas A&M;
+2016,13,23,Washington State
+2016,13,24,Tennessee
+2016,13,25,LSU
+2016,14,1,Alabama
+2016,14,2,Ohio State
+2016,14,3,Clemson
+2016,14,4,Washington
+2016,14,5,Michigan
+2016,14,6,Wisconsin
+2016,14,7,Oklahoma
+2016,14,8,Penn State
+2016,14,9,Colorado
+2016,14,10,USC
+2016,14,11,Oklahoma State
+2016,14,12,Florida State
+2016,14,13,Western Michigan
+2016,14,14,West Virginia
+2016,14,15,Florida
+2016,14,16,Louisville
+2016,14,17,Stanford
+2016,14,18,Auburn
+2016,14,19,Virginia Tech
+2016,14,20,Navy
+2016,14,21,LSU
+2016,14,22,Iowa
+2016,14,23,Nebraska
+2016,14,24,Pittsburgh
+2016,14,,South Florida
+2016,15,1,Alabama
+2016,15,2,Ohio State
+2016,15,3,Clemson
+2016,15,4,Washington
+2016,15,5,Penn State
+2016,15,6,Michigan
+2016,15,7,Oklahoma
+2016,15,8,Wisconsin
+2016,15,9,USC
+2016,15,10,Florida State
+2016,15,11,Colorado
+2016,15,12,Western Michigan
+2016,15,13,Oklahoma State
+2016,15,14,West Virginia
+2016,15,15,Louisville
+2016,15,16,Stanford
+2016,15,17,Auburn
+2016,15,18,Virginia Tech
+2016,15,19,LSU
+2016,15,20,Florida
+2016,15,21,Iowa
+2016,15,22,Pittsburgh
+2016,15,23,Temple
+2016,15,24,Nebraska
+2016,15,25,South Florida
+2016,16,1,Clemson
+2016,16,2,Alabama
+2016,16,3,USC
+2016,16,4,Washington
+2016,16,5,Oklahoma
+2016,16,6,Ohio State
+2016,16,7,Penn State
+2016,16,8,Florida State
+2016,16,9,Wisconsin
+2016,16,10,Michigan
+2016,16,11,Oklahoma State
+2016,16,12,Stanford
+2016,16,13,LSU
+2016,16,14,Florida
+2016,16,15,Western Michigan
+2016,16,16,Virginia Tech
+2016,16,17,Colorado
+2016,16,18,West Virginia
+2016,16,19,South Florida
+2016,16,20,Miami
+2016,16,21,Louisville
+2016,16,22,Tennessee
+2016,16,23,Utah
+2016,16,24,Auburn
+2016,16,25,San Diego State
